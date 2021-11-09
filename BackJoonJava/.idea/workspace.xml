@@ -7,8 +7,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="20dhzokiUWrVA2p9dVetrJk4GCV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,9 +41,22 @@
       <recent name="$PROJECT_DIR$/src/q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q10869">
-    <configuration name="Q1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1000" />
+  <component name="RunManager" selected="Application.Q14681">
+    <configuration name="DateRecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q10430" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -40,8 +68,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q10869" />
+    <configuration name="Q14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q14681" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q2021year.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2438" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q2021year.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2739" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q10869" />
-        <item itemvalue="Application.Q1000" />
+        <item itemvalue="Application.Q14681" />
+        <item itemvalue="Application.DateRecordApp" />
+        <item itemvalue="Application.Q10430" />
+        <item itemvalue="Application.Q2438" />
+        <item itemvalue="Application.Q2739" />
       </list>
     </recent_temporary>
   </component>
@@ -69,6 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636380636533</updated>
       <workItem from="1636380638427" duration="190000" />
+      <workItem from="1636418836088" duration="7324000" />
+      <workItem from="1636446404027" duration="1636000" />
     </task>
     <servers />
   </component>
