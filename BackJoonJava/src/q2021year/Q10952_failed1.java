@@ -2,7 +2,7 @@ package q2021year;
 
 import java.util.Scanner;
 
-public class Q10952_faild {
+public class Q10952_failed1 {
     static int repeat = 1;
     static int[] result = new int[repeat];
     static Scanner scan = new Scanner(System.in);

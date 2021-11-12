@@ -2,7 +2,7 @@ package q2021year;
 
 import java.util.Scanner;
 
-public class Q10952_faild1 {
+public class Q10952_failed2 {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
