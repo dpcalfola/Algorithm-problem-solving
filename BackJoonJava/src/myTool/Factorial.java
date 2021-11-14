@@ -9,7 +9,13 @@ public class Factorial {
 
     public static void main(String[] args) {
 
-        int num = scan.nextInt();
+        factorial(4);
+
+
+    }
+
+    public static void factorial(int number) {
+        int num = number;
         int result = 1;
 
         if(num==0 || num==1) {
@@ -21,8 +27,5 @@ public class Factorial {
         }
 
         System.out.println(result);
-
-
-
     }
 }

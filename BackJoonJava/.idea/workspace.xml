@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -36,6 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/myApp" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,7 +49,7 @@
       <recent name="$PROJECT_DIR$/src/q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateRecordApp">
+  <component name="RunManager" selected="Application.Factorial">
     <configuration name="DateRecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp" />
       <module name="BackJoonJava" />
@@ -72,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10171_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q10171_1" />
+    <configuration name="Q1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1008" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2588" />
+    <configuration name="Q10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q10951" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2588_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2588_1" />
+    <configuration name="Q10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q10952" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateRecordApp" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Q2588_1" />
-        <item itemvalue="Application.Q2588" />
-        <item itemvalue="Application.Q10171_1" />
+        <item itemvalue="Application.Q1008" />
+        <item itemvalue="Application.Q10952" />
+        <item itemvalue="Application.Q10951" />
+        <item itemvalue="Application.DateRecordApp" />
       </list>
     </recent_temporary>
   </component>
@@ -150,5 +154,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
