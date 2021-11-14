@@ -9,13 +9,16 @@ public class DateRecordApp {
     public static void main(String[] args) throws IOException {
         Date today = new Date();
 
-        SimpleDateFormat date = new SimpleDateFormat("EEEE, MMMM, dd, yyyy : ");
+        SimpleDateFormat date = new SimpleDateFormat("EEEE, MMMM, dd, yyyy");
         System.out.println("Recorde in text : " + date.format(today));
 
         FileWriter fw = new FileWriter("./src/myApp/TodayDateRecorde.txt", true);
 
 
-        fw.write("\n" + date.format(today));
+        String arrangedDateFormat = String.format("%-29s", date.format(today));
+
+
+        fw.write("\n" + arrangedDateFormat + " : ");
         fw.close();
 
 
