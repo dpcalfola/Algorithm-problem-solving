@@ -35,19 +35,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/myApp" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/myApp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTool.Factorial" />
+  <component name="RunManager" selected="Application.DateRecordApp">
+    <configuration name="DateRecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTool.*" />
+          <option name="PATTERN" value="myApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q10171" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTool.Factorial" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="myTool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateRecordApp" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Q2588_1" />
         <item itemvalue="Application.Q2588" />
         <item itemvalue="Application.Q10171_1" />
-        <item itemvalue="Application.Q10171" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +143,8 @@
       <workItem from="1636691791780" duration="597000" />
       <workItem from="1636695517787" duration="1000" />
       <workItem from="1636707281172" duration="14776000" />
-      <workItem from="1636810843853" duration="250000" />
+      <workItem from="1636810843853" duration="916000" />
+      <workItem from="1636867868174" duration="643000" />
     </task>
     <servers />
   </component>

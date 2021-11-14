@@ -12,7 +12,7 @@ public class DateRecordApp {
         SimpleDateFormat date = new SimpleDateFormat("EEEE, MMMM, dd, yyyy : ");
         System.out.println("Recorde in text : " + date.format(today));
 
-        FileWriter fw = new FileWriter("TodayDateRecorde.txt", true);
+        FileWriter fw = new FileWriter("./src/myApp/TodayDateRecorde.txt", true);
 
 
         fw.write("\n" + date.format(today));
