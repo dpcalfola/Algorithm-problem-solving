@@ -49,7 +49,20 @@
       <recent name="$PROJECT_DIR$/src/q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.Q3052_yet">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCode.ArrayTest" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DateRecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp" />
       <module name="BackJoonJava" />
@@ -63,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTool.Factorial" />
+    <configuration name="DateRecordApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myTool.*" />
+          <option name="PATTERN" value="myApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,21 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1008" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q2021year.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q10951" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q10951" />
+    <configuration name="Q11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q11654" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q10952" />
+    <configuration name="Q3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q3052" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -117,10 +117,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Q1008" />
-        <item itemvalue="Application.Q10952" />
-        <item itemvalue="Application.Q10951" />
+        <item itemvalue="Application.Q3052_yet" />
+        <item itemvalue="Application.ArrayTest" />
+        <item itemvalue="Application.DateRecordApp3" />
+        <item itemvalue="Application.Q11654" />
         <item itemvalue="Application.DateRecordApp" />
       </list>
     </recent_temporary>
@@ -149,6 +149,9 @@
       <workItem from="1636707281172" duration="14776000" />
       <workItem from="1636810843853" duration="916000" />
       <workItem from="1636867868174" duration="1364000" />
+      <workItem from="1636949143003" duration="3533000" />
+      <workItem from="1636964932692" duration="614000" />
+      <workItem from="1636967014865" duration="4109000" />
     </task>
     <servers />
   </component>
