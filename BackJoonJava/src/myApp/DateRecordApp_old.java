@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class DateRecordApp {
+public class DateRecordApp_old {
     public static void main(String[] args) throws IOException {
         Date today = new Date();
 

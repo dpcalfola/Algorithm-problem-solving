@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class DateRecordApp3 {
+public class DateRecordApp3_NOW {
 
     static Date today = new Date();
 
@@ -18,7 +18,7 @@ public class DateRecordApp3 {
 
         String totalDate = EEEE + MMMM + dd + yyyy ;
 
-        FileWriter fw = new FileWriter("./src/myApp/TodayDateRecorde3.txt", true);
+        FileWriter fw = new FileWriter("./src/myApp/TodayDateRecorde.txt", true);
 
         fw.write("\n" + totalDate + " : ");
         fw.close();
