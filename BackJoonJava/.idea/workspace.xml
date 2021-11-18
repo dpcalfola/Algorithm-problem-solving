@@ -39,6 +39,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/myBackup" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
@@ -49,23 +52,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/q2021year" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="q2021year" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Q1929_timeOver">
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCode.PrimeNumber" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1009_yet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1009_yet" />
+  <component name="RunManager" selected="Application.Q14928_timeOver">
+    <configuration name="Q1110_Explain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1110_Explain" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1929_timeOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1929_timeOver" />
+    <configuration name="Q1110_Succeeded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1110_Succeeded" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q9498" />
+    <configuration name="Q14928_timeOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q14928_timeOver" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCode.T1" />
+    <configuration name="Q15552" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q15552" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testCode.*" />
+          <option name="PATTERN" value="q2021year.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q23234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q23234" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q2021year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1929_timeOver" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.Q1009_yet" />
-        <item itemvalue="Application.Q9498" />
-        <item itemvalue="Application.T1" />
+        <item itemvalue="Application.Q14928_timeOver" />
+        <item itemvalue="Application.Q1110_Explain" />
+        <item itemvalue="Application.Q1110_Succeeded" />
+        <item itemvalue="Application.Q15552" />
+        <item itemvalue="Application.Q23234" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +162,11 @@
       <workItem from="1637034626339" duration="1019000" />
       <workItem from="1637053022362" duration="3628000" />
       <workItem from="1637122202348" duration="5799000" />
-      <workItem from="1637149142338" duration="5661000" />
+      <workItem from="1637149142338" duration="13142000" />
+      <workItem from="1637202051082" duration="4000" />
+      <workItem from="1637202517616" duration="2525000" />
+      <workItem from="1637209068302" duration="951000" />
+      <workItem from="1637210065571" duration="16260000" />
     </task>
     <servers />
   </component>
