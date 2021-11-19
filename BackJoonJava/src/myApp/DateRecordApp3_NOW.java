@@ -16,18 +16,14 @@ public class DateRecordApp3_NOW {
         String dd = arrangedFormat(", dd", "%-3s");
         String yyyy = arrangedFormat(", yyyy", "%-5s");
 
-        String totalDate = EEEE + MMMM + dd + yyyy ;
+        String totalDate = EEEE + MMMM + dd + yyyy;
 
         FileWriter fw = new FileWriter("./src/myApp/TodayDateRecorde.txt", true);
 
         fw.write("\n" + totalDate + " : ");
         fw.close();
 
-
-
-
     }
-
 
     private static String arrangedFormat(String pattern, String format) {
         SimpleDateFormat date = new SimpleDateFormat(pattern);
