@@ -23,6 +23,8 @@ public class DateRecordApp3_NOW {
         fw.write("\n" + totalDate + " : ");
         fw.close();
 
+        System.out.println("Recorded : " + totalDate);
+
     }
 
     private static String arrangedFormat(String pattern, String format) {

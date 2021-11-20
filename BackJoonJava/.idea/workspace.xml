@@ -42,7 +42,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,9 +56,9 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2750">
-    <configuration name="Q1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1546" />
+  <component name="RunManager" selected="Application.Q20540">
+    <configuration name="Q1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1085" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1546_Buffered" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1546_Buffered" />
+    <configuration name="Q17608_ReTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q17608_ReTry" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2747" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2747" />
+    <configuration name="Q20540" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q20540" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2750" />
+    <configuration name="Q5543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q5543" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4153_again_11_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q4153_again_11_19" />
+    <configuration name="Q5543_MathMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q5543_MathMin" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2750" />
-        <item itemvalue="Application.Q2747" />
-        <item itemvalue="Application.Q1546_Buffered_failed" />
-        <item itemvalue="Application.Q1546" />
-        <item itemvalue="Application.Q4153_again_11_19" />
+        <item itemvalue="Application.Q20540" />
+        <item itemvalue="Application.Q17608_ReTry" />
+        <item itemvalue="Application.Q1085" />
+        <item itemvalue="Application.Q5543_MathMin" />
+        <item itemvalue="Application.Q5543" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,9 @@
       <workItem from="1637209068302" duration="951000" />
       <workItem from="1637210065571" duration="16260000" />
       <workItem from="1637244167835" duration="169000" />
-      <workItem from="1637288516272" duration="13830000" />
+      <workItem from="1637288516272" duration="14071000" />
+      <workItem from="1637385809744" duration="4812000" />
+      <workItem from="1637405934389" duration="5978000" />
     </task>
     <servers />
   </component>
