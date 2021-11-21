@@ -56,9 +56,35 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q20540">
-    <configuration name="Q1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1085" />
+  <component name="RunManager" selected="Application.Q5692">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTool.Factorial" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTool.Factorial2" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myTool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1010_failed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1010_failed" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q17608_ReTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q17608_ReTry" />
+    <configuration name="Q2748" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2748" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -83,34 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q20540" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q20540" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q2021year.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q5543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q5543" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q2021year.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q5543_MathMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q5543_MathMin" />
+    <configuration name="Q5692" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q5692" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q20540" />
-        <item itemvalue="Application.Q17608_ReTry" />
-        <item itemvalue="Application.Q1085" />
-        <item itemvalue="Application.Q5543_MathMin" />
-        <item itemvalue="Application.Q5543" />
+        <item itemvalue="Application.Q5692" />
+        <item itemvalue="Application.Factorial2" />
+        <item itemvalue="Application.Q1010_failed" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Q2748" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,8 @@
       <workItem from="1637244167835" duration="169000" />
       <workItem from="1637288516272" duration="14071000" />
       <workItem from="1637385809744" duration="4812000" />
-      <workItem from="1637405934389" duration="5978000" />
+      <workItem from="1637405934389" duration="6106000" />
+      <workItem from="1637453677083" duration="12112000" />
     </task>
     <servers />
   </component>

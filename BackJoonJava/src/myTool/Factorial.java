@@ -9,7 +9,7 @@ public class Factorial {
 
     public static void main(String[] args) {
 
-        factorial(4);
+        factorial(5);
 
 
     }
@@ -17,13 +17,9 @@ public class Factorial {
     public static void factorial(int number) {
         int num = number;
         int result = 1;
+        for (int i = 1; i <= num; i++) {
+            result *= i;
 
-        if(num==0 || num==1) {
-        }
-        else{
-            for ( int i = 1 ; i<=num ; i++){
-                result *= i;
-            }
         }
 
         System.out.println(result);
