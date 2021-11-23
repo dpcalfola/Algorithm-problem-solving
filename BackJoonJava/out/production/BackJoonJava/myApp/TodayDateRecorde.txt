@@ -13,4 +13,6 @@ Thursday , November, 18, 2021 : Q1271 Q1550 Q1237 Q5338 Q5522 Q6749
 Friday   , November, 19, 2021 : Q3035 Q2475 Q15596 Q4153 Q1546 Q2747 < Achieve Bronze I >
                                 Q2750
 Saturday , November, 20, 2021 : Q3003 Q5543 Q1085 Q17608 Q20540
-Sunday   , November, 21, 2021 : Q2748
+Sunday   , November, 21, 2021 : Q2748 Q5692
+Monday   , November, 22, 2021 : Q1330
+Tuesday  , November, 23, 2021 : Q10871
