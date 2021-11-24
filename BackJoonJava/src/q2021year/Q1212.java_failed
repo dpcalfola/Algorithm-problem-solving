@@ -1,0 +1,54 @@
+//package q2021year;
+//
+//import java.util.Scanner;
+//
+//public class Q1212 {
+//    public static void main(String[] args) {
+//        Scanner scan = new Scanner(System.in);
+//
+//        String s = scan.next();
+//        String[] arrStr;
+//        arrStr = s.split("");
+//
+//        Double decimal = 0;
+//        int counter = s.length() - 1;
+//
+//
+//        for (int i = 0; i < s.length(); i++) {
+//            decimal += (Double) [counter--] * (Math.pow(8, i));
+//
+//        }
+//
+////        System.out.println(decimal);
+//
+//        Long result = 0L;
+//
+//
+//        int octDig = 0;
+//
+//        for (int i = 0; decimalInt / 2 != 0; i++) {
+//            octDig = (decimalInt % 2) * (int) Math.pow(10, i);
+//
+//
+////            System.out.println("octDig" + octDig);
+//
+//
+//            result += octDig ;
+//            decimalInt /= 2;
+//
+////            System.out.println("decimalInt = " + decimalInt);
+//
+//            if(decimalInt == 1){
+//                result += (decimalInt % 2) * (int) Math.pow(10, i+1);
+//            }
+//
+//
+//        }
+//
+//        System.out.println(result);
+//
+//    }
+//
+//
+//}
+//
