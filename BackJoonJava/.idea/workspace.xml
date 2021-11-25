@@ -39,10 +39,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/myBackup" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +56,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2754">
+  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q11720" />
+    <configuration name="Q1212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1212" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +124,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2754" />
         <item itemvalue="Application.Q1212" />
-        <item itemvalue="Application.T2" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
-        <item itemvalue="Application.Q11720" />
+        <item itemvalue="Application.Q2754" />
+        <item itemvalue="Application.T2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,10 @@
       <workItem from="1637453677083" duration="12299000" />
       <workItem from="1637572024290" duration="596000" />
       <workItem from="1637636718888" duration="2963000" />
-      <workItem from="1637710178021" duration="11868000" />
+      <workItem from="1637710178021" duration="11903000" />
+      <workItem from="1637797601902" duration="5665000" />
+      <workItem from="1637804411996" duration="754000" />
+      <workItem from="1637805184740" duration="3079000" />
     </task>
     <servers />
   </component>
