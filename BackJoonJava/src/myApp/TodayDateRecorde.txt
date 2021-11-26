@@ -18,3 +18,4 @@ Monday   , November, 22, 2021 : Q1330
 Tuesday  , November, 23, 2021 : Q10871 Q11720
 Wednesday, November, 24, 2021 : Q2754 < Achieve Silver V >
 Thursday , November, 25, 2021 : Q1212
+Friday   , November, 26, 2021 : Q2231 Q2675 Q1712
