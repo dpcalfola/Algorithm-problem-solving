@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="" />
+    <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/q2021year/Q2869_retry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/q2021year/Q2869_retry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/q2021year/Q2920.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/q2021year/Q2920.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q2021year/Q2869_retry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q2021year/Q2869_retry.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +36,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="20dhzokiUWrVA2p9dVetrJk4GCV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,10 +48,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/myBackup" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,22 +65,9 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2920">
-    <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myApp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q10871_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q10871_1" />
+  <component name="RunManager">
+    <configuration name="Q1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1037" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2869_timeOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2869_timeOver" />
+    <configuration name="Q11650_TimeOver_notUnderstand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q11650_TimeOver_notUnderstand" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2869_timeOver2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2869_timeOver2" />
+    <configuration name="Q1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1427" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +105,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2920" />
+    <configuration name="Q1427Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1427Substring" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q2021year.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2609" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2920" />
-        <item itemvalue="Application.Q10871_1" />
-        <item itemvalue="Application.Q2869_timeOver2" />
-        <item itemvalue="Application.Q2869_timeOver" />
-        <item itemvalue="Application.DateRecordApp3_NOW" />
+        <item itemvalue="Application.Q11650_TimeOver_notUnderstand" />
+        <item itemvalue="Application.Q1427Substring" />
+        <item itemvalue="Application.Q1427" />
+        <item itemvalue="Application.Q1037" />
+        <item itemvalue="Application.Q2609" />
       </list>
     </recent_temporary>
   </component>
@@ -183,12 +192,32 @@
       <workItem from="1637919087553" duration="42000" />
       <workItem from="1637975973001" duration="29000" />
       <workItem from="1638245334011" duration="653000" />
-      <workItem from="1638261477117" duration="15594000" />
+      <workItem from="1638261477117" duration="16206000" />
+      <workItem from="1638888150477" duration="311000" />
+      <workItem from="1638946882777" duration="590000" />
+      <workItem from="1638947478919" duration="81000" />
+      <workItem from="1638947576052" duration="16347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
