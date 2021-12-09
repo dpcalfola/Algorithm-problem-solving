@@ -35,6 +35,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="20dhzokiUWrVA2p9dVetrJk4GCV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -65,7 +68,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2720">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11650_TimeOver_notUnderstand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q11650_TimeOver_notUnderstand" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTool.greedyAlgorithm.Main" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="myTool.greedyAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1427" />
+    <configuration name="Q11650_TimeOver_notUnderstand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q11650_TimeOver_notUnderstand" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Q2720" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q11650_TimeOver_notUnderstand" />
         <item itemvalue="Application.Q1427Substring" />
-        <item itemvalue="Application.Q1427" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +201,9 @@
       <workItem from="1638947478919" duration="81000" />
       <workItem from="1638947576052" duration="16431000" />
       <workItem from="1639021281039" duration="4491000" />
-      <workItem from="1639046705041" duration="1503000" />
+      <workItem from="1639046705041" duration="1626000" />
+      <workItem from="1639051825144" duration="1977000" />
+      <workItem from="1639053873482" duration="1035000" />
     </task>
     <servers />
   </component>
@@ -215,7 +220,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -225,5 +229,13 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BackJoonJava$Q2720.ic" NAME="Q2720 Coverage Results" MODIFIED="1639053892145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>q2021year.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BackJoonJava$Main.ic" NAME="Main Coverage Results" MODIFIED="1639054479709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>myTool.greedyAlgorithm.*</FILTER>
+    </SUITE>
   </component>
 </project>
