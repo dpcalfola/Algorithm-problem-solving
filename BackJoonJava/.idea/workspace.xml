@@ -65,13 +65,13 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Q1037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1037" />
+  <component name="RunManager" selected="Application.Q2720">
+    <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="myApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2609" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2609" />
+    <configuration name="Q2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2720" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2720" />
+        <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q11650_TimeOver_notUnderstand" />
         <item itemvalue="Application.Q1427Substring" />
         <item itemvalue="Application.Q1427" />
-        <item itemvalue="Application.Q1037" />
-        <item itemvalue="Application.Q2609" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,9 @@
       <workItem from="1638888150477" duration="311000" />
       <workItem from="1638946882777" duration="590000" />
       <workItem from="1638947478919" duration="81000" />
-      <workItem from="1638947576052" duration="16347000" />
+      <workItem from="1638947576052" duration="16431000" />
+      <workItem from="1639021281039" duration="4491000" />
+      <workItem from="1639046705041" duration="1503000" />
     </task>
     <servers />
   </component>
@@ -213,6 +215,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
