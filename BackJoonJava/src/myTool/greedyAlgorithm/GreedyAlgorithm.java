@@ -2,12 +2,9 @@ package myTool.greedyAlgorithm;
 
 class GreedyAlgorithm {
 
-    int[] unitArr;
+    int[] unitArr; // 반드시 내림차순 정리 !!
     int targetNumber;
-
-    public GreedyAlgorithm() {
-
-    }
+    int checkReminder; // 나누어 떨어지는지 확인용
 
 
     public int[] runGreedy() {
@@ -22,6 +19,10 @@ class GreedyAlgorithm {
                 count[i]++;
             }
 
+        }
+
+        if ( targetNumber != 0){  // 만약 나누어 떨어지지 않는다면 checkReminder 에 -1 리턴
+            checkReminder = -1 ;
         }
         return count;
     }
