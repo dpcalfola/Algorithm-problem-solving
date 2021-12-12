@@ -68,7 +68,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2501">
+  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -136,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2501" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
+        <item itemvalue="Application.Q2501" />
         <item itemvalue="Application.Q2839_failed" />
         <item itemvalue="Application.Q5585" />
         <item itemvalue="Application.Main" />
