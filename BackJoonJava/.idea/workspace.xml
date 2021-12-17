@@ -68,7 +68,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
+  <component name="RunManager" selected="Application.Q2908">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -82,21 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2501" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q2021year.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q2839_failed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2839_failed" />
+    <configuration name="Q10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q10172" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5585" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q5585" />
+    <configuration name="Q2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2908" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q2021year.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q8958" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2908" />
+        <item itemvalue="Application.Q10172" />
+        <item itemvalue="Application.Q8958" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q2884" />
-        <item itemvalue="Application.Q2501" />
-        <item itemvalue="Application.Q2839_failed" />
-        <item itemvalue="Application.Q5585" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +209,8 @@
       <workItem from="1639416252123" duration="33000" />
       <workItem from="1639418155909" duration="181000" />
       <workItem from="1639473499499" duration="122000" />
+      <workItem from="1639726165904" duration="6784000" />
+      <workItem from="1639743491393" duration="4000" />
     </task>
     <servers />
   </component>

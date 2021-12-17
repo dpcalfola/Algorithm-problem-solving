@@ -30,3 +30,5 @@ Friday   , December, 10, 2021 : Q5585 Q2501
 
 Monday   , December, 13, 2021 : 
 Tuesday  , December, 14, 2021 : 
+
+Friday   , December, 17, 2021 : Q8958 Q10172
