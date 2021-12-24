@@ -68,7 +68,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q3029">
+  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -84,6 +84,19 @@
     </configuration>
     <configuration name="Q1284" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q2021year.Q1284" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q2021year.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2941" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -121,26 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToolTestCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myTool.ToolTestCode" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myTool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q3029" />
         <item itemvalue="Application.Q1284" />
-        <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q3028" />
-        <item itemvalue="Application.ToolTestCode" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +215,8 @@
       <workItem from="1640165999438" duration="12904000" />
       <workItem from="1640190985525" duration="3418000" />
       <workItem from="1640229008093" duration="10426000" />
+      <workItem from="1640268065526" duration="5228000" />
+      <workItem from="1640342506809" duration="47000" />
     </task>
     <servers />
   </component>
