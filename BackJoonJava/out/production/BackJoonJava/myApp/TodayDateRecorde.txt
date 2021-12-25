@@ -36,9 +36,5 @@ Monday   , December, 20, 2021 : Q5554
 Wednesday, December, 22, 2021 : Q13985 Q17863 Q2935 Q3028
 Thursday , December, 23, 2021 : Q1284 Q3029
 
-<<<<<<< HEAD
 Friday   , December, 24, 2021 : Q2941
 Saturday , December, 25, 2021 : 
-=======
-Friday   , December, 24, 2021 : Q2941
->>>>>>> 3483e50c4a7f62329f464d9a7fd23df75337fbc0
