@@ -68,7 +68,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
+  <component name="RunManager" selected="Application.Q1924">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2941" />
+    <configuration name="Q1924" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1924" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -136,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1924" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q3029" />
         <item itemvalue="Application.Q1284" />
@@ -217,6 +218,9 @@
       <workItem from="1640229008093" duration="10426000" />
       <workItem from="1640268065526" duration="5228000" />
       <workItem from="1640342506809" duration="47000" />
+      <workItem from="1640352780422" duration="364000" />
+      <workItem from="1640365014334" duration="43000" />
+      <workItem from="1640390696649" duration="4330000" />
     </task>
     <servers />
   </component>

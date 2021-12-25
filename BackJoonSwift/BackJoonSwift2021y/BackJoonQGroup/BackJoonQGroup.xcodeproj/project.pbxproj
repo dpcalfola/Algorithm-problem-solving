@@ -10,6 +10,7 @@
 		A50C781D2775B5D800BD4F8F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50C781C2775B5D800BD4F8F /* main.swift */; };
 		A50C78242775B5E700BD4F8F /* Q2845_yet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50C78232775B5E700BD4F8F /* Q2845_yet.swift */; };
 		A50C78282775DA0E00BD4F8F /* Q11382.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50C78272775DA0E00BD4F8F /* Q11382.swift */; };
+		A520457A2776373600CD6A29 /* Q10039.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52045792776373600CD6A29 /* Q10039.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,8 @@
 		A50C781C2775B5D800BD4F8F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A50C78232775B5E700BD4F8F /* Q2845_yet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2845_yet.swift; sourceTree = "<group>"; };
 		A50C78272775DA0E00BD4F8F /* Q11382.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11382.swift; sourceTree = "<group>"; };
+		A52045792776373600CD6A29 /* Q10039.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10039.swift; sourceTree = "<group>"; };
+		A520457B27763F9B00CD6A29 /* recorde.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = recorde.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				A50C781C2775B5D800BD4F8F /* main.swift */,
 				A50C78232775B5E700BD4F8F /* Q2845_yet.swift */,
 				A50C78272775DA0E00BD4F8F /* Q11382.swift */,
+				A52045792776373600CD6A29 /* Q10039.swift */,
+				A520457B27763F9B00CD6A29 /* recorde.txt */,
 			);
 			path = BackJoonQGroup;
 			sourceTree = "<group>";
@@ -127,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A50C78282775DA0E00BD4F8F /* Q11382.swift in Sources */,
+				A520457A2776373600CD6A29 /* Q10039.swift in Sources */,
 				A50C78242775B5E700BD4F8F /* Q2845_yet.swift in Sources */,
 				A50C781D2775B5D800BD4F8F /* main.swift in Sources */,
 			);
