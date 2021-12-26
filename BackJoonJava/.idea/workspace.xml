@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/myBackup" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java_studying" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -75,7 +75,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
+  <component name="RunManager" selected="Application.Q2576">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1284" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1284" />
+    <configuration name="Q1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q1259" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q3028" />
+    <configuration name="Q2576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q2576" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q3029" />
+    <configuration name="Q4153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q2021year.Q4153" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2576" />
+        <item itemvalue="Application.Q1259" />
+        <item itemvalue="Application.Q4153" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q1924" />
-        <item itemvalue="Application.Q3029" />
-        <item itemvalue="Application.Q1284" />
-        <item itemvalue="Application.Q3028" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +228,8 @@
       <workItem from="1640352780422" duration="364000" />
       <workItem from="1640365014334" duration="43000" />
       <workItem from="1640390696649" duration="4330000" />
+      <workItem from="1640459033240" duration="197000" />
+      <workItem from="1640487426301" duration="6376000" />
     </task>
     <servers />
   </component>
