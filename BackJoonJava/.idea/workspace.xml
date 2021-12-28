@@ -58,7 +58,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -69,19 +69,20 @@
       <recent name="$PROJECT_DIR$/src/myApp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/testCode" />
       <recent name="$PROJECT_DIR$/src/q2021year" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2576">
-    <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
+  <component name="RunManager" selected="Application.TEST">
+    <configuration name="J503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JungOlQ2021year.J503" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myApp.*" />
+          <option name="PATTERN" value="JungOlQ2021year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1259" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1259" />
+    <configuration name="J504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JungOlQ2021year.J504" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="JungOlQ2021year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1924" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q1924" />
+    <configuration name="J508" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JungOlQ2021year.J508" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="JungOlQ2021year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q2576" />
+    <configuration name="Q1110_Explain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2021year.Q1110_Explain" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="backJoonQ2021year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q2021year.Q4153" />
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JungOlQ2021year.TEST" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q2021year.*" />
+          <option name="PATTERN" value="JungOlQ2021year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2576" />
-        <item itemvalue="Application.Q1259" />
-        <item itemvalue="Application.Q4153" />
-        <item itemvalue="Application.DateRecordApp3_NOW" />
-        <item itemvalue="Application.Q1924" />
+        <item itemvalue="Application.TEST" />
+        <item itemvalue="Application.J508" />
+        <item itemvalue="Application.J503" />
+        <item itemvalue="Application.J504" />
+        <item itemvalue="Application.Q1110_Explain" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +231,9 @@
       <workItem from="1640390696649" duration="4330000" />
       <workItem from="1640459033240" duration="197000" />
       <workItem from="1640487426301" duration="6376000" />
+      <workItem from="1640564109745" duration="11628000" />
+      <workItem from="1640585729186" duration="464000" />
+      <workItem from="1640586209082" duration="6425000" />
     </task>
     <servers />
   </component>
