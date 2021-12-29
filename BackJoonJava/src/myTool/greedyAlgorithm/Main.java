@@ -4,8 +4,10 @@ public class Main {
     public static void main(String[] args) {
         GreedyAlgorithm g1 = new GreedyAlgorithm();
 
-        g1.targetNumber = 18 ;
-        g1.unitArr = new int[]{5, 3};
+        g1.targetNumber = 29 ;
+        g1.unitArr = new int[]{10,5,1};
+
+        System.out.println(g1.targetNumber);
 
         int[] answerArr = g1.runGreedy();
 

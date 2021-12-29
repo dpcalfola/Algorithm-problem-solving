@@ -2,7 +2,7 @@ package testCode;
 
 import java.util.ArrayList;
 
-public class CheckIt$$$$$$$$$$$$$$$ {
+public class ArrayListCopyTest {
 
     public static void main(String[] args) {
 
