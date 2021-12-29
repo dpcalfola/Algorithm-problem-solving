@@ -39,4 +39,6 @@ Thursday , December, 23, 2021 : Q1284 Q3029
 Friday   , December, 24, 2021 : Q2941
 Saturday , December, 25, 2021 : Q1924
 Sunday   , December, 26, 2021 : Q4153(again) Q1259 Q2576
-Monday   , December, 27, 2021 : Q2441 Q3046 J502 J503 J504
+Monday   , December, 27, 2021 : Q2441 Q3046 J502 J503 J504 J505 J508
+Tuesday  , December, 28, 2021 : J506 J507 J101 j104 J511 J518 J519 J506 J507 J101 J104 J520
+                                Q10809

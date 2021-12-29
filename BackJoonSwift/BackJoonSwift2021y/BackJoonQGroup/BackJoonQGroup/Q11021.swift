@@ -11,10 +11,14 @@ func Q11021() {
 
 	let num = Int(readLine()!)!
 
-	for _ in 0..<num {
+	for i in 1...num {
+
 		let addArry = readLine()!.components(separatedBy: " ")
-		let result = addArry[0] + addArry[1]
-		print(result)
+		let result =  Int(addArry[0])! + Int(addArry[1])!
+		print("Case #\(i): \(result)")
+
+//		print("==================")
+//		print(type(of: result))
 	}
 }
 
