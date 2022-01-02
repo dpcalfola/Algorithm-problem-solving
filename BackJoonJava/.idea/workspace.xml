@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q10926.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q11866.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q11943.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q12873.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2480_yet.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q4134_backup.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q4134_runTimeError.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q4344.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q1065.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q11022.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/backJoonQ2021year/(temp)date.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/backJoonQ2021year/Q1312.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/testCode/T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/testCode/T1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backJoonQ2021year/(temp)date.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/backJoonQ2022year/Q4134.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testCode/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testCode/T1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/xcuserdata/folaflor.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/xcuserdata/folaflor.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" afterDir="false" />
     </list>
@@ -93,7 +81,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q4134">
+  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -161,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q4134" />
         <item itemvalue="Application.T1" />
         <item itemvalue="Application.PrimeNumberBiginteger" />
-        <item itemvalue="Application.DateRecordApp3_NOW" />
         <item itemvalue="Application.Q24039" />
       </list>
     </recent_temporary>
@@ -263,6 +251,8 @@
       <workItem from="1640917746968" duration="1226000" />
       <workItem from="1640941901316" duration="16953000" />
       <workItem from="1641038963360" duration="4000" />
+      <workItem from="1641084511234" duration="1583000" />
+      <workItem from="1641123071179" duration="159000" />
     </task>
     <servers />
   </component>
