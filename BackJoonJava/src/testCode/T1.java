@@ -1,17 +1,17 @@
 package testCode;
 
+import java.math.BigInteger;
+
 public class T1 {
 
     public static void main(String[] args) {
-     int total = 0 ;
-     int i = 0 ;
-     while (total < 5050) {
-         total += i ;
-         i++;
 
 
-     }
-        System.out.println(total);
+        BigInteger b = new BigInteger("10");
+
+        System.out.println(b);
+
+
 
     }
 }
