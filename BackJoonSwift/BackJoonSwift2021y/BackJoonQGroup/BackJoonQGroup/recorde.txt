@@ -12,3 +12,6 @@ Saturday , January , 01, 2022 : Q11943 Q4344 Q12873 Q11866
 Sunday   , January , 02, 2022 : Q11022 Q1065 Q2440 Q2441 Q2442
 Monday   , January , 03, 2022 : Q11050 Q1010 Q2751 Q9012 Q9086
 Tuesday  , January , 04, 2022 : Q10953 Q2739 Q2743 Q1100
+Wednesday, January , 05, 2022 : Q5532 Q2721 Q1076
+Thursday , January , 06, 2022 : Q2446
+Friday   , January , 07, 2022 : Q15894 Q15894_1

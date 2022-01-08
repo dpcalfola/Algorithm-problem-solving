@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="feat: (swift) Combination.swift&#10;&#10;func Permutation&#10;func Factorial&#10;func Combination">
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q1076.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q10953.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q1100.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q15894.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q15894_1.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2446.swift" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2721.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2739.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2743.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q5532.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
@@ -259,7 +257,8 @@
       <workItem from="1641123071179" duration="159000" />
       <workItem from="1641165645144" duration="4119000" />
       <workItem from="1641252823187" duration="524000" />
-      <workItem from="1641253445243" duration="9229000" />
+      <workItem from="1641253445243" duration="10510000" />
+      <workItem from="1641605816722" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="Solve&#10;&#10;swift: Q11050 Q1010 Q2751 Q9012 Q9086">
       <created>1641230150409</created>

@@ -20,11 +20,15 @@
 		A514A872277EFFDD0001F68E /* Q4134_runTimeError.swift in Sources */ = {isa = PBXBuildFile; fileRef = A514A871277EFFDD0001F68E /* Q4134_runTimeError.swift */; };
 		A514A874277F0FAC0001F68E /* Q4134_backup.swift in Sources */ = {isa = PBXBuildFile; fileRef = A514A873277F0FAC0001F68E /* Q4134_backup.swift */; };
 		A520457A2776373600CD6A29 /* Q10039.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52045792776373600CD6A29 /* Q10039.swift */; };
+		A523DA7A278668B3001B3EBE /* Q2446.swift in Sources */ = {isa = PBXBuildFile; fileRef = A523DA79278668B3001B3EBE /* Q2446.swift */; };
+		A523DA7C2787B260001B3EBE /* Q15894_MemoryOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = A523DA7B2787B260001B3EBE /* Q15894_MemoryOver.swift */; };
+		A523DA7E2787B49D001B3EBE /* Q15894_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A523DA7D2787B49D001B3EBE /* Q15894_1.swift */; };
 		A553DD772780905D00079A30 /* Q1157.swift in Sources */ = {isa = PBXBuildFile; fileRef = A553DD762780905D00079A30 /* Q1157.swift */; };
 		A553DD7927812F8700079A30 /* Q11022.swift in Sources */ = {isa = PBXBuildFile; fileRef = A553DD7827812F8700079A30 /* Q11022.swift */; };
 		A553DD7B2781465600079A30 /* Q1065.swift in Sources */ = {isa = PBXBuildFile; fileRef = A553DD7A2781465600079A30 /* Q1065.swift */; };
 		A566BB38277AFA5A00C53F95 /* Q9498.swift in Sources */ = {isa = PBXBuildFile; fileRef = A566BB37277AFA5A00C53F95 /* Q9498.swift */; };
 		A566BB3A277AFF4500C53F95 /* Q8958.swift in Sources */ = {isa = PBXBuildFile; fileRef = A566BB39277AFF4500C53F95 /* Q8958.swift */; };
+		A5909B5B2785AF92001C9B3C /* Q5532.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5909B5A2785AF92001C9B3C /* Q5532.swift */; };
 		A5960068278007100056CB74 /* Q2480_yet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5960067278007100056CB74 /* Q2480_yet.swift */; };
 		A596006A27800BCB0056CB74 /* Q11943.swift in Sources */ = {isa = PBXBuildFile; fileRef = A596006927800BCB0056CB74 /* Q11943.swift */; };
 		A596006C27802FE90056CB74 /* Q4344.swift in Sources */ = {isa = PBXBuildFile; fileRef = A596006B27802FE90056CB74 /* Q4344.swift */; };
@@ -75,11 +79,15 @@
 		A514A873277F0FAC0001F68E /* Q4134_backup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q4134_backup.swift; sourceTree = "<group>"; };
 		A52045792776373600CD6A29 /* Q10039.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10039.swift; sourceTree = "<group>"; };
 		A520457B27763F9B00CD6A29 /* recorde.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = recorde.txt; sourceTree = "<group>"; };
+		A523DA79278668B3001B3EBE /* Q2446.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2446.swift; sourceTree = "<group>"; };
+		A523DA7B2787B260001B3EBE /* Q15894_MemoryOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15894_MemoryOver.swift; sourceTree = "<group>"; };
+		A523DA7D2787B49D001B3EBE /* Q15894_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15894_1.swift; sourceTree = "<group>"; };
 		A553DD762780905D00079A30 /* Q1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1157.swift; sourceTree = "<group>"; };
 		A553DD7827812F8700079A30 /* Q11022.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11022.swift; sourceTree = "<group>"; };
 		A553DD7A2781465600079A30 /* Q1065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1065.swift; sourceTree = "<group>"; };
 		A566BB37277AFA5A00C53F95 /* Q9498.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q9498.swift; sourceTree = "<group>"; };
 		A566BB39277AFF4500C53F95 /* Q8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q8958.swift; sourceTree = "<group>"; };
+		A5909B5A2785AF92001C9B3C /* Q5532.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q5532.swift; sourceTree = "<group>"; };
 		A5960067278007100056CB74 /* Q2480_yet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2480_yet.swift; sourceTree = "<group>"; };
 		A596006927800BCB0056CB74 /* Q11943.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11943.swift; sourceTree = "<group>"; };
 		A596006B27802FE90056CB74 /* Q4344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q4344.swift; sourceTree = "<group>"; };
@@ -134,6 +142,10 @@
 			children = (
 				A5DE119A278289EF00CF1DBF /* MyTool */,
 				A50C781C2775B5D800BD4F8F /* main.swift */,
+				A523DA7B2787B260001B3EBE /* Q15894_MemoryOver.swift */,
+				A523DA7D2787B49D001B3EBE /* Q15894_1.swift */,
+				A5909B5A2785AF92001C9B3C /* Q5532.swift */,
+				A523DA79278668B3001B3EBE /* Q2446.swift */,
 				A50C728327851B7300DE6C3C /* Q2721.swift */,
 				A50C72812784748E00DE6C3C /* Q1076.swift */,
 				A50C727F27843B2000DE6C3C /* Q1100.swift */,
@@ -256,6 +268,7 @@
 				A596007027807A200056CB74 /* Q11866.swift in Sources */,
 				A50C728027843B2000DE6C3C /* Q1100.swift in Sources */,
 				A5F8AA3A2779F16700A6DDC0 /* Q11021.swift in Sources */,
+				A523DA7A278668B3001B3EBE /* Q2446.swift in Sources */,
 				A50C727A2783ED4800DE6C3C /* Q2739.swift in Sources */,
 				A553DD7927812F8700079A30 /* Q11022.swift in Sources */,
 				A553DD772780905D00079A30 /* Q1157.swift in Sources */,
@@ -280,11 +293,14 @@
 				A553DD7B2781465600079A30 /* Q1065.swift in Sources */,
 				A50C728427851B7300DE6C3C /* Q2721.swift in Sources */,
 				A596006E27804D9D0056CB74 /* Q12873.swift in Sources */,
+				A5909B5B2785AF92001C9B3C /* Q5532.swift in Sources */,
 				A566BB3A277AFF4500C53F95 /* Q8958.swift in Sources */,
 				A50C78242775B5E700BD4F8F /* Q2845_yet.swift in Sources */,
 				A5DE1199278276FA00CF1DBF /* Q11050.swift in Sources */,
 				A50C72822784748E00DE6C3C /* Q1076.swift in Sources */,
+				A523DA7E2787B49D001B3EBE /* Q15894_1.swift in Sources */,
 				A5DE119E278293EC00CF1DBF /* Q1010.swift in Sources */,
+				A523DA7C2787B260001B3EBE /* Q15894_MemoryOver.swift in Sources */,
 				A50C781D2775B5D800BD4F8F /* main.swift in Sources */,
 				A5DE119C27828A3D00CF1DBF /* Combination.swift in Sources */,
 			);
