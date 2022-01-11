@@ -3,21 +3,13 @@
    version = "1.0">
    <ContextStates>
       <ContextState
-         contextName = "GLOBAL">
-         <PersistentStrings>
-            <PersistentString
-               value = "group">
-            </PersistentString>
-            <PersistentString
-               value = "inputNum">
-            </PersistentString>
-         </PersistentStrings>
-      </ContextState>
-      <ContextState
          contextName = "main:main.swift">
          <PersistentStrings>
             <PersistentString
-               value = "number">
+               value = "primeArr">
+            </PersistentString>
+            <PersistentString
+               value = "totalArr">
             </PersistentString>
          </PersistentStrings>
       </ContextState>

@@ -7,7 +7,7 @@
 
 import Foundation
 
-func Test() {
-	let input = readLine()!.split(separator: " ").map { Int($0)! }
-	print(input)
-}
+//let str1 = "push 1"
+//
+//print(str1.contains("push"))
+//print(str1.dropFirst(5))

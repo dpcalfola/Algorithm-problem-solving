@@ -16,4 +16,5 @@ Wednesday, January , 05, 2022 : Q5532 Q2721 Q1076
 Thursday , January , 06, 2022 : Q2446
 Friday   , January , 07, 2022 : Q15894 Q15894_1
 Saturday , January , 08, 2022 : Q10817
-Sunday   , January , 09, 2022 : Q2292 q2959
+Sunday   , January , 09, 2022 : Q2292 q2959 // q1269
+Monday   , January , 10, 2022 : q10989
