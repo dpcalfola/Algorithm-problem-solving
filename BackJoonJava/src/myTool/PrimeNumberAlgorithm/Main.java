@@ -1,25 +1,29 @@
 package myTool.PrimeNumberAlgorithm;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
 
-        PrimeNumber p1 = new PrimeNumber();
+        Eratosthenes e1 = new Eratosthenes();
+        e1.minRangeNum = 1;
+        e1.maxRangeNum = 100000;
 
-        p1.minRangeNum = 60;
-        p1.maxRangeNum = 100;
+        //상속 잘 되었는지 테스트
+        System.out.println("❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊");
+        System.out.println(e1.isPrime(1003));
+        System.out.println("❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊");
 
-        ArrayList<Integer> resultList = p1.findPrimeNumber();
 
-        System.out.println("PrimeNumber List : " + resultList);
+        // 체로 거른 소수배열을 가져옴
+        int[] primeNumArr = e1.eratosthenesArr();
 
-        System.out.println("minPrimeNum : " + p1.minPrimeNum);
-        System.out.println("maxPrimeNum : " + p1.maxPrimeNum);
-        System.out.println("primeNumaCnt : " + p1.primeNumaCnt);
-        System.out.println("nullChecker : " + p1.nullChecker);
-        System.out.println("sumPrimeNum : " + p1.sumPrimeNum);
-
+        // 소수만 출력
+        for (int i = e1.minRangeNum; i < primeNumArr.length; i++) {
+            if (primeNumArr[i] != -1) {
+                System.out.printf("%d ",primeNumArr[i]);
+            }
+        }
 
     }
+
+    private static void printArr()
 }
