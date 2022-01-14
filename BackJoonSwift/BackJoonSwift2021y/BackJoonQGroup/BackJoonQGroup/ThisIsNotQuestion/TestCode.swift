@@ -7,7 +7,8 @@
 
 import Foundation
 
-//let str1 = "push 1"
-//
-//print(str1.contains("push"))
-//print(str1.dropFirst(5))
+func testCode() {
+	let a: [Bool] = Array(repeating: false, count: 5)
+	print(a)
+}
+

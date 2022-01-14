@@ -5,7 +5,7 @@ public class Main {
 
         Eratosthenes e1 = new Eratosthenes();
         e1.minRangeNum = 1;
-        e1.maxRangeNum = 100000;
+        e1.maxRangeNum = 100;
 
         //상속 잘 되었는지 테스트
         System.out.println("❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊❊");
@@ -14,16 +14,16 @@ public class Main {
 
 
         // 체로 거른 소수배열을 가져옴
-        int[] primeNumArr = e1.eratosthenesArr();
+        boolean[] primeNumArr = e1.eratosthenesArr();
 
         // 소수만 출력
         for (int i = e1.minRangeNum; i < primeNumArr.length; i++) {
-            if (primeNumArr[i] != -1) {
-                System.out.printf("%d ",primeNumArr[i]);
+            if (!primeNumArr[i]) {
+                System.out.printf("%d ",i);
             }
         }
 
     }
 
-    private static void printArr()
+//    private static void printArr()
 }
