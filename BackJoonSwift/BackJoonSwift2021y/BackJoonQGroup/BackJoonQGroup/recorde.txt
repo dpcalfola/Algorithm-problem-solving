@@ -22,3 +22,5 @@ Tuesday  , January , 11, 2022 : q9842 q15965
 Wednesday, January , 12, 2022 : q11931 q10995 q10250 q2789
 Thursday , January , 13, 2022 : q19532 q13297 q10828
 Friday   , January , 14, 2022 : q1357
+Saturday , January , 15, 2022 : q10845 q2738 q1920
+Monday   , January , 17, 2022 : q3076

@@ -37,11 +37,16 @@
 		A53FFA15278B21B5007F687B /* Q1822_timdOver_quickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53FFA14278B21B5007F687B /* Q1822_timdOver_quickSort.swift */; };
 		A53FFA17278BF273007F687B /* Q10989.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53FFA16278BF273007F687B /* Q10989.swift */; };
 		A53FFA19278BF830007F687B /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53FFA18278BF830007F687B /* QuickSort.swift */; };
+		A550FFA82792C69600C4304C /* Q10845.swift in Sources */ = {isa = PBXBuildFile; fileRef = A550FFA72792C69600C4304C /* Q10845.swift */; };
+		A550FFAA2792F10900C4304C /* Q2738.swift in Sources */ = {isa = PBXBuildFile; fileRef = A550FFA92792F10900C4304C /* Q2738.swift */; };
 		A553DD772780905D00079A30 /* Q1157.swift in Sources */ = {isa = PBXBuildFile; fileRef = A553DD762780905D00079A30 /* Q1157.swift */; };
 		A553DD7927812F8700079A30 /* Q11022.swift in Sources */ = {isa = PBXBuildFile; fileRef = A553DD7827812F8700079A30 /* Q11022.swift */; };
 		A553DD7B2781465600079A30 /* Q1065.swift in Sources */ = {isa = PBXBuildFile; fileRef = A553DD7A2781465600079A30 /* Q1065.swift */; };
 		A566BB38277AFA5A00C53F95 /* Q9498.swift in Sources */ = {isa = PBXBuildFile; fileRef = A566BB37277AFA5A00C53F95 /* Q9498.swift */; };
 		A566BB3A277AFF4500C53F95 /* Q8958.swift in Sources */ = {isa = PBXBuildFile; fileRef = A566BB39277AFF4500C53F95 /* Q8958.swift */; };
+		A56C5C682795178500FFD2CE /* Q15649_failed.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56C5C672795178500FFD2CE /* Q15649_failed.swift */; };
+		A56C5C6A27951DE600FFD2CE /* Q1873_failed.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56C5C6927951DE600FFD2CE /* Q1873_failed.swift */; };
+		A56C5C6C279524BF00FFD2CE /* Q3076.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56C5C6B279524BF00FFD2CE /* Q3076.swift */; };
 		A57E3838278D09B200FDBB72 /* EratosthenesPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57E3837278D09B200FDBB72 /* EratosthenesPrime.swift */; };
 		A57E3851278DB83A00FDBB72 /* Q9842.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57E3850278DB83A00FDBB72 /* Q9842.swift */; };
 		A57E3853278DB87100FDBB72 /* Q15965.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57E3852278DB87100FDBB72 /* Q15965.swift */; };
@@ -52,14 +57,15 @@
 		A596006C27802FE90056CB74 /* Q4344.swift in Sources */ = {isa = PBXBuildFile; fileRef = A596006B27802FE90056CB74 /* Q4344.swift */; };
 		A596006E27804D9D0056CB74 /* Q12873.swift in Sources */ = {isa = PBXBuildFile; fileRef = A596006D27804D9D0056CB74 /* Q12873.swift */; };
 		A596007027807A200056CB74 /* Q11866.swift in Sources */ = {isa = PBXBuildFile; fileRef = A596006F27807A200056CB74 /* Q11866.swift */; };
-		A59A83D5278C20F8007D7379 /* Q10828_temp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59A83D4278C20F8007D7379 /* Q10828_temp.swift */; };
 		A59A83D7278C234A007D7379 /* isPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59A83D6278C234A007D7379 /* isPrime.swift */; };
 		A59A83D9278C2A74007D7379 /* Q11653.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59A83D8278C2A74007D7379 /* Q11653.swift */; };
+		A59DBB4C2793B3F7002C4FFD /* Q1920.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59DBB4B2793B3F7002C4FFD /* Q1920.swift */; };
 		A5B22B83278924550041DC69 /* Q1929_timeOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B22B82278924550041DC69 /* Q1929_timeOver.swift */; };
 		A5B22B8527892F5A0041DC69 /* Q1929_runTime98.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B22B8427892F5A0041DC69 /* Q1929_runTime98.swift */; };
 		A5B22B872789444D0041DC69 /* Q10817.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B22B862789444D0041DC69 /* Q10817.swift */; };
 		A5B63F9E2779837900FE773B /* Q2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B63F9D2779837900FE773B /* Q2557.swift */; };
 		A5B63FA0277984C100FE773B /* Q2438.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B63F9F277984C100FE773B /* Q2438.swift */; };
+		A5D751472795A47E000AA444 /* Q10610_runTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D751462795A47E000AA444 /* Q10610_runTime.swift */; };
 		A5DE11932781E1CA00CF1DBF /* Q2440.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DE11922781E1CA00CF1DBF /* Q2440.swift */; };
 		A5DE11952781E57200CF1DBF /* Q2441.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DE11942781E57200CF1DBF /* Q2441.swift */; };
 		A5DE11972781F8FE00CF1DBF /* Q2442.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DE11962781F8FE00CF1DBF /* Q2442.swift */; };
@@ -122,11 +128,16 @@
 		A53FFA14278B21B5007F687B /* Q1822_timdOver_quickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1822_timdOver_quickSort.swift; sourceTree = "<group>"; };
 		A53FFA16278BF273007F687B /* Q10989.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10989.swift; sourceTree = "<group>"; };
 		A53FFA18278BF830007F687B /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
+		A550FFA72792C69600C4304C /* Q10845.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10845.swift; sourceTree = "<group>"; };
+		A550FFA92792F10900C4304C /* Q2738.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2738.swift; sourceTree = "<group>"; };
 		A553DD762780905D00079A30 /* Q1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1157.swift; sourceTree = "<group>"; };
 		A553DD7827812F8700079A30 /* Q11022.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11022.swift; sourceTree = "<group>"; };
 		A553DD7A2781465600079A30 /* Q1065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1065.swift; sourceTree = "<group>"; };
 		A566BB37277AFA5A00C53F95 /* Q9498.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q9498.swift; sourceTree = "<group>"; };
 		A566BB39277AFF4500C53F95 /* Q8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q8958.swift; sourceTree = "<group>"; };
+		A56C5C672795178500FFD2CE /* Q15649_failed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15649_failed.swift; sourceTree = "<group>"; };
+		A56C5C6927951DE600FFD2CE /* Q1873_failed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1873_failed.swift; sourceTree = "<group>"; };
+		A56C5C6B279524BF00FFD2CE /* Q3076.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q3076.swift; sourceTree = "<group>"; };
 		A57E3837278D09B200FDBB72 /* EratosthenesPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EratosthenesPrime.swift; sourceTree = "<group>"; };
 		A57E3850278DB83A00FDBB72 /* Q9842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q9842.swift; sourceTree = "<group>"; };
 		A57E3852278DB87100FDBB72 /* Q15965.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q15965.swift; sourceTree = "<group>"; };
@@ -137,14 +148,15 @@
 		A596006B27802FE90056CB74 /* Q4344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q4344.swift; sourceTree = "<group>"; };
 		A596006D27804D9D0056CB74 /* Q12873.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q12873.swift; sourceTree = "<group>"; };
 		A596006F27807A200056CB74 /* Q11866.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11866.swift; sourceTree = "<group>"; };
-		A59A83D4278C20F8007D7379 /* Q10828_temp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10828_temp.swift; sourceTree = "<group>"; };
 		A59A83D6278C234A007D7379 /* isPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPrime.swift; sourceTree = "<group>"; };
 		A59A83D8278C2A74007D7379 /* Q11653.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q11653.swift; sourceTree = "<group>"; };
+		A59DBB4B2793B3F7002C4FFD /* Q1920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1920.swift; sourceTree = "<group>"; };
 		A5B22B82278924550041DC69 /* Q1929_timeOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1929_timeOver.swift; sourceTree = "<group>"; };
 		A5B22B8427892F5A0041DC69 /* Q1929_runTime98.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1929_runTime98.swift; sourceTree = "<group>"; };
 		A5B22B862789444D0041DC69 /* Q10817.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10817.swift; sourceTree = "<group>"; };
 		A5B63F9D2779837900FE773B /* Q2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2557.swift; sourceTree = "<group>"; };
 		A5B63F9F277984C100FE773B /* Q2438.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2438.swift; sourceTree = "<group>"; };
+		A5D751462795A47E000AA444 /* Q10610_runTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q10610_runTime.swift; sourceTree = "<group>"; };
 		A5DE11922781E1CA00CF1DBF /* Q2440.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2440.swift; sourceTree = "<group>"; };
 		A5DE11942781E57200CF1DBF /* Q2441.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2441.swift; sourceTree = "<group>"; };
 		A5DE11962781F8FE00CF1DBF /* Q2442.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q2442.swift; sourceTree = "<group>"; };
@@ -193,7 +205,13 @@
 			isa = PBXGroup;
 			children = (
 				A50C781C2775B5D800BD4F8F /* main.swift */,
-				A5F5283E2791076600F86715 /* Q1357.swift */,
+				A5D751462795A47E000AA444 /* Q10610_runTime.swift */,
+				A56C5C6B279524BF00FFD2CE /* Q3076.swift */,
+				A56C5C6927951DE600FFD2CE /* Q1873_failed.swift */,
+				A56C5C672795178500FFD2CE /* Q15649_failed.swift */,
+				A59DBB4B2793B3F7002C4FFD /* Q1920.swift */,
+				A550FFA92792F10900C4304C /* Q2738.swift */,
+				A550FFA72792C69600C4304C /* Q10845.swift */,
 				A5DE119D278293EC00CF1DBF /* Q1010.swift */,
 				A553DD7A2781465600079A30 /* Q1065.swift */,
 				A50C72812784748E00DE6C3C /* Q1076.swift */,
@@ -201,6 +219,7 @@
 				A553DD762780905D00079A30 /* Q1157.swift */,
 				A53FFA12278B1BD3007F687B /* Q1269.swift */,
 				A52D4203278AE4E600E852D6 /* Q1292_runTime_javaPass.swift */,
+				A5F5283E2791076600F86715 /* Q1357.swift */,
 				A53FFA14278B21B5007F687B /* Q1822_timdOver_quickSort.swift */,
 				A5B22B8427892F5A0041DC69 /* Q1929_runTime98.swift */,
 				A5B22B82278924550041DC69 /* Q1929_timeOver.swift */,
@@ -232,7 +251,7 @@
 				A50CB763278F0ABA008D4FF2 /* Q10250.swift */,
 				A5F8AA322779ECA100A6DDC0 /* Q10797.swift */,
 				A5B22B862789444D0041DC69 /* Q10817.swift */,
-				A59A83D4278C20F8007D7379 /* Q10828_temp.swift */,
+				A5F5283C279064A000F86715 /* Q10828.swift */,
 				A514A86F277EFB670001F68E /* Q10926.swift */,
 				A50C727B2784356600DE6C3C /* Q10953.swift */,
 				A53FFA16278BF273007F687B /* Q10989.swift */,
@@ -255,7 +274,6 @@
 				A520457B27763F9B00CD6A29 /* recorde.txt */,
 				A5DE119A278289EF00CF1DBF /* MyTool */,
 				A5F8AA382779F12700A6DDC0 /* ThisIsNotQuestion */,
-				A5F5283C279064A000F86715 /* Q10828.swift */,
 			);
 			path = BackJoonQGroup;
 			sourceTree = "<group>";
@@ -342,12 +360,14 @@
 				A52D4200278A8F8100E852D6 /* Q2959.swift in Sources */,
 				A53FFA17278BF273007F687B /* Q10989.swift in Sources */,
 				A57E3855278E57E100FDBB72 /* Q11931.swift in Sources */,
+				A550FFAA2792F10900C4304C /* Q2738.swift in Sources */,
 				A53FFA13278B1BD3007F687B /* Q1269.swift in Sources */,
 				A566BB38277AFA5A00C53F95 /* Q9498.swift in Sources */,
 				A50C727E278439CD00DE6C3C /* Q2743.swift in Sources */,
 				A50CB762278EA72A008D4FF2 /* Q10995.swift in Sources */,
 				A5DE11A22782F48500CF1DBF /* Q9012.swift in Sources */,
 				A50CB76A278FACB4008D4FF2 /* Q13297.swift in Sources */,
+				A56C5C682795178500FFD2CE /* Q15649_failed.swift in Sources */,
 				A5B63F9E2779837900FE773B /* Q2557.swift in Sources */,
 				A5B22B8527892F5A0041DC69 /* Q1929_runTime98.swift in Sources */,
 				A596007027807A200056CB74 /* Q11866.swift in Sources */,
@@ -365,19 +385,22 @@
 				A50C727C2784356600DE6C3C /* Q10953.swift in Sources */,
 				A596006A27800BCB0056CB74 /* Q11943.swift in Sources */,
 				A5B22B872789444D0041DC69 /* Q10817.swift in Sources */,
+				A550FFA82792C69600C4304C /* Q10845.swift in Sources */,
 				A5DE11952781E57200CF1DBF /* Q2441.swift in Sources */,
 				A5DE11A02782BB0600CF1DBF /* Q2751.swift in Sources */,
 				A50C78282775DA0E00BD4F8F /* Q11382.swift in Sources */,
-				A59A83D5278C20F8007D7379 /* Q10828_temp.swift in Sources */,
 				A514A874277F0FAC0001F68E /* Q4134_backup.swift in Sources */,
 				A59A83D7278C234A007D7379 /* isPrime.swift in Sources */,
 				A5960068278007100056CB74 /* Q2480_yet.swift in Sources */,
 				A5DE11972781F8FE00CF1DBF /* Q2442.swift in Sources */,
 				A5DE11A4278307EB00CF1DBF /* Q9086.swift in Sources */,
+				A56C5C6A27951DE600FFD2CE /* Q1873_failed.swift in Sources */,
 				A5F8AA372779F0A300A6DDC0 /* InputCodes.swift in Sources */,
 				A514A870277EFB670001F68E /* Q10926.swift in Sources */,
 				A5F8AA332779ECA100A6DDC0 /* Q10797.swift in Sources */,
 				A596006C27802FE90056CB74 /* Q4344.swift in Sources */,
+				A56C5C6C279524BF00FFD2CE /* Q3076.swift in Sources */,
+				A5D751472795A47E000AA444 /* Q10610_runTime.swift in Sources */,
 				A5B63FA0277984C100FE773B /* Q2438.swift in Sources */,
 				A5F8AA352779EDFE00A6DDC0 /* TestCode.swift in Sources */,
 				A514A872277EFFDD0001F68E /* Q4134_runTimeError.swift in Sources */,
@@ -407,6 +430,7 @@
 				A50C781D2775B5D800BD4F8F /* main.swift in Sources */,
 				A5DE119C27828A3D00CF1DBF /* Combination.swift in Sources */,
 				A5F5283F2791076600F86715 /* Q1357.swift in Sources */,
+				A59DBB4C2793B3F7002C4FFD /* Q1920.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
