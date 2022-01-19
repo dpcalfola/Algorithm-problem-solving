@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="feat: (swift) Combination.swift&#10;&#10;func Permutation&#10;func Factorial&#10;func Combination">
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q10845.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q15649_failed.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q1873_failed.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q1920.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2738.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q3076.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q3009.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q10828_temp.swift" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" afterDir="false" />
     </list>
@@ -61,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java_studying" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -87,7 +81,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q12605">
+  <component name="RunManager" selected="Application.Q2161">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -114,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q2438" />
+    <configuration name="Q2161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q2161" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2438_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q2438_1" />
+    <configuration name="Q4158_failed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q4158_failed" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q2439" />
+    <configuration name="Q4158_failed2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q4158_failed2" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q12605" />
+        <item itemvalue="Application.Q2161" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
-        <item itemvalue="Application.Q2439" />
-        <item itemvalue="Application.Q2438_1" />
-        <item itemvalue="Application.Q2438" />
+        <item itemvalue="Application.Q4158_failed2" />
+        <item itemvalue="Application.Q4158_failed" />
+        <item itemvalue="Application.Q12605" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +271,12 @@
       <workItem from="1642123468966" duration="253000" />
       <workItem from="1642262914026" duration="3471000" />
       <workItem from="1642390972810" duration="676000" />
+      <workItem from="1642463280712" duration="788000" />
+      <workItem from="1642464085165" duration="4000" />
+      <workItem from="1642478014124" duration="4548000" />
+      <workItem from="1642492531151" duration="914000" />
+      <workItem from="1642507019995" duration="20000" />
+      <workItem from="1642550429835" duration="2469000" />
     </task>
     <task id="LOCAL-00001" summary="Solve&#10;&#10;swift: Q11050 Q1010 Q2751 Q9012 Q9086">
       <created>1641230150409</created>
