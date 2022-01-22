@@ -44,7 +44,7 @@ Tuesday  , December, 28, 2021 : Q10809
 
 Wednesday, December, 29, 2021 : Q3040 Q11047
 Thursday , December, 30, 2021 : Q2581 Q1978 Q6219 Q16430 Q5361 Q23825
-Friday   , December, 31, 2021 : Q24039
+, December, 31, 2021 : Q24039
 Saturday , January , 01, 2022 : 
 Sunday   , January , 02, 2022 : 
 Monday   , January , 03, 2022 : 
@@ -58,3 +58,6 @@ Wednesday, January , 12, 2022 :
 Sunday   , January , 16, 2022 : Q12605
 Tuesday  , January , 18, 2022 : 
 Wednesday, January , 19, 2022 : Q2161
+Thursday , January , 20, 2022 : Q10828
+Friday   , January , 22, 2022 : Q2864 Q2292
+Saturday , January , 22, 2022 : 
