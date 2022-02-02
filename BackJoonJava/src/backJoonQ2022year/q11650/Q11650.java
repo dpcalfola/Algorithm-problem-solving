@@ -1,4 +1,4 @@
-package backJoonQ2022year;
+package backJoonQ2022year.q11650;
 
 import java.io.BufferedReader;
 import java.io.IOException;
