@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="feat: (swift) Combination.swift&#10;&#10;func Permutation&#10;func Factorial&#10;func Combination">
-      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q18238.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm/약수의 개수와 덧셈.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ProgrammersSwift/ProgrammersAlgorithm/ProgrammersAlgorithm/main.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,20 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
+  <component name="RunManager" selected="Application.Q11650">
+    <configuration name="ArraySortPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCode.ArraySortPractice" />
+      <module name="BackJoonJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -93,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10828_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q10828_1" />
+    <configuration name="Q11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q11650" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q13900" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q13900" />
+    <configuration name="Q13264_memoryOver_Platinum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q13264_memoryOver_Platinum" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -119,21 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q13900_timeOver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q13900_timeOver" />
-      <module name="BackJoonJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q2864" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q2864" />
+    <configuration name="Q5086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q5086" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11650" />
+        <item itemvalue="Application.ArraySortPractice" />
+        <item itemvalue="Application.Q5086" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
-        <item itemvalue="Application.Q13900" />
-        <item itemvalue="Application.Q13900_timeOver" />
-        <item itemvalue="Application.Q2864" />
-        <item itemvalue="Application.Q10828_1" />
+        <item itemvalue="Application.Q13264_memoryOver_Platinum" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +289,8 @@
       <workItem from="1642902984634" duration="6084000" />
       <workItem from="1643102868314" duration="62000" />
       <workItem from="1643644573559" duration="34000" />
+      <workItem from="1643714076780" duration="3457000" />
+      <workItem from="1643782667277" duration="4600000" />
     </task>
     <task id="LOCAL-00001" summary="Solve&#10;&#10;swift: Q11050 Q1010 Q2751 Q9012 Q9086">
       <created>1641230150409</created>

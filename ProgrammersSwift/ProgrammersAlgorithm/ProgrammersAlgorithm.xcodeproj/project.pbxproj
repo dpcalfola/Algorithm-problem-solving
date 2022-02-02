@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A55F49A527A9972300677B95 /* 약수의 개수와 덧셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55F49A427A9972300677B95 /* 약수의 개수와 덧셈.swift */; };
 		A57E3846278D774B00FDBB72 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57E3845278D774B00FDBB72 /* main.swift */; };
 		A57E384D278D7AFE00FDBB72 /* 평균 구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57E384C278D7AFE00FDBB72 /* 평균 구하기.swift */; };
 		A57E384F278D7B6800FDBB72 /* 짝수와 홀수.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57E384E278D7B6800FDBB72 /* 짝수와 홀수.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A55F49A427A9972300677B95 /* 약수의 개수와 덧셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "약수의 개수와 덧셈.swift"; sourceTree = "<group>"; };
 		A57E3842278D774B00FDBB72 /* ProgrammersAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProgrammersAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A57E3845278D774B00FDBB72 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A57E384C278D7AFE00FDBB72 /* 평균 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균 구하기.swift"; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				A57E3845278D774B00FDBB72 /* main.swift */,
+				A55F49A427A9972300677B95 /* 약수의 개수와 덧셈.swift */,
 				A5D751482795AB4C000AA444 /* 직사각형 별찍기.swift */,
 				A57E384C278D7AFE00FDBB72 /* 평균 구하기.swift */,
 				A57E384E278D7B6800FDBB72 /* 짝수와 홀수.swift */,
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A57E384F278D7B6800FDBB72 /* 짝수와 홀수.swift in Sources */,
+				A55F49A527A9972300677B95 /* 약수의 개수와 덧셈.swift in Sources */,
 				A57E3846278D774B00FDBB72 /* main.swift in Sources */,
 				A5D751492795AB4C000AA444 /* 직사각형 별찍기.swift in Sources */,
 				A57E384D278D7AFE00FDBB72 /* 평균 구하기.swift in Sources */,
