@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="feat: (swift) Combination.swift&#10;&#10;func Permutation&#10;func Factorial&#10;func Combination">
+    <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backJoonQ2022year/Q11650.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backJoonQ2022year/q11650/Q11650.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,8 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,7 +80,7 @@
       <recent name="q2021year" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q10866">
+  <component name="RunManager" selected="Application.DateRecordApp3_NOW">
     <configuration name="DateRecordApp3_NOW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myApp.DateRecordApp3_NOW" />
       <module name="BackJoonJava" />
@@ -91,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCode.DistinctPractice" />
+    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCode.MaxValue" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q10866.Q10866" />
+    <configuration name="Q11659_PrefixSumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q11659.Q11659_PrefixSumArray" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.q10866.*" />
+          <option name="PATTERN" value="backJoonQ2022year.q11659.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10867" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q10867.Q10867" />
+    <configuration name="Q11659_failed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q11659.Q11659_failed" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.q10867.*" />
+          <option name="PATTERN" value="backJoonQ2022year.q11659.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q1181.Q1181" />
+    <configuration name="Q4158_failed_WHY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q4158_failed_WHY" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.q1181.*" />
+          <option name="PATTERN" value="backJoonQ2022year.q11659.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q10866" />
         <item itemvalue="Application.DateRecordApp3_NOW" />
-        <item itemvalue="Application.Q10867" />
-        <item itemvalue="Application.DistinctPractice" />
-        <item itemvalue="Application.Q1181" />
+        <item itemvalue="Application.Q11659_PrefixSumArray" />
+        <item itemvalue="Application.Q11659_failed" />
+        <item itemvalue="Application.Q4158_failed_WHY" />
+        <item itemvalue="Application.MaxValue" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +290,15 @@
       <workItem from="1643644573559" duration="34000" />
       <workItem from="1643714076780" duration="3457000" />
       <workItem from="1643782667277" duration="10789000" />
-      <workItem from="1643814242586" duration="4865000" />
+      <workItem from="1643814242586" duration="6725000" />
+      <workItem from="1643846908514" duration="7036000" />
+      <workItem from="1643881757363" duration="60000" />
+      <workItem from="1643881832819" duration="55000" />
+      <workItem from="1643881906779" duration="89000" />
+      <workItem from="1643882009305" duration="4031000" />
+      <workItem from="1643886378895" duration="212000" />
+      <workItem from="1643898348548" duration="28000" />
+      <workItem from="1643899544225" duration="56216000" />
     </task>
     <task id="LOCAL-00001" summary="Solve&#10;&#10;swift: Q11050 Q1010 Q2751 Q9012 Q9086">
       <created>1641230150409</created>
@@ -310,7 +321,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641230356428</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="solve &gt;&#10;&#10;Q1181, Q10814, Q10866, Q10867">
+      <created>1643824689966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643824689966</updated>
+    </task>
+    <task id="LOCAL-00005" summary="solve &gt;&#10;&#10;Q2164 Q3047 Q4948 Q9012_Stack Q9012_Normal">
+      <created>1643960196162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643960196162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425">
+      <created>1644038270435</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644038270435</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +363,10 @@
     <MESSAGE value="Solve&#10;&#10;swift: Q11050 Q1010 Q2751 Q9012 Q9086" />
     <MESSAGE value="feat: Combination function" />
     <MESSAGE value="feat: (swift) Combination.swift&#10;&#10;func Permutation&#10;func Factorial&#10;func Combination" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: (swift) Combination.swift&#10;&#10;func Permutation&#10;func Factorial&#10;func Combination" />
+    <MESSAGE value="solve &gt;&#10;&#10;Q1181, Q10814, Q10866, Q10867" />
+    <MESSAGE value="solve &gt;&#10;&#10;Q2164 Q3047 Q4948 Q9012_Stack Q9012_Normal" />
+    <MESSAGE value="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
