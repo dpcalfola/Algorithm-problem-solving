@@ -4,10 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425">
+    <list default="true" id="c182249b-587a-49b2-9e90-11b8421ec26e" name="Changes" comment="solve &gt;&#10;&#10;Q10714 Q13777 Q11659_PrefixSumArray">
+      <change afterPath="$PROJECT_DIR$/../AlgorithmStudy/src/binarySearch/example1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmStudy/src/binarySearch/example2/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmStudy/src/binaryTree/example1/BinaryTreePractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backJoonQ2022year/Q23813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backJoonQ2022year/q2805/Q2805_SolvingNow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backJoonQ2022year/q9506/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/Q2525.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeforcesJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeforcesJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeforcesJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeforcesJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeforcesJava/CodeforcesJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeforcesJava/src/codeforces2022Feb/C4A_Watermelon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/leetcodeJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/src/leetcode2022Feb/l13_RomanToInteger/Solution_failed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/src/leetcode2022Feb/l1_TwoSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeJava/src/leetcode2022Feb/l9_PalindromeNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift.xcodeproj/xcuserdata/folaflor.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift/L389_FindTheDifference.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcodeSwift/leetcodeSwift/leetcodeSwift/main.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BackJoonJava/myApp/TodayDateRecorde.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/myApp/TodayDateRecorde.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup.xcodeproj/project.xcworkspace/xcuserdata/folaflor.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/main.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackJoonSwift/BackJoonSwift2021y/BackJoonQGroup/BackJoonQGroup/recorde.txt" afterDir="false" />
@@ -94,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCode.MaxValue" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q9506.Main" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testCode.*" />
+          <option name="PATTERN" value="backJoonQ2022year.q9506.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11659_PrefixSumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q11659.Q11659_PrefixSumArray" />
+    <configuration name="Q23813" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q23813" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.q11659.*" />
+          <option name="PATTERN" value="backJoonQ2022year.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11659_failed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q11659.Q11659_failed" />
+    <configuration name="Q2805_SolvingNow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q2805.Q2805_SolvingNow" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.q11659.*" />
+          <option name="PATTERN" value="backJoonQ2022year.q2805.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4158_failed_WHY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.Q4158_failed_WHY" />
+    <configuration name="Q3711" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backJoonQ2022year.q3711_SolvingNow.Q3711" />
       <module name="BackJoonJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backJoonQ2022year.q11659.*" />
+          <option name="PATTERN" value="backJoonQ2022year.q3711_SolvingNow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,10 +179,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DateRecordApp3_NOW" />
-        <item itemvalue="Application.Q11659_PrefixSumArray" />
-        <item itemvalue="Application.Q11659_failed" />
-        <item itemvalue="Application.Q4158_failed_WHY" />
-        <item itemvalue="Application.MaxValue" />
+        <item itemvalue="Application.Q3711" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Q2805_SolvingNow" />
+        <item itemvalue="Application.Q23813" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +329,11 @@
       <workItem from="1643886378895" duration="212000" />
       <workItem from="1643898348548" duration="28000" />
       <workItem from="1643899544225" duration="56216000" />
+      <workItem from="1644142222393" duration="14056000" />
+      <workItem from="1644279809776" duration="1000" />
+      <workItem from="1644367451337" duration="1387000" />
+      <workItem from="1644376571149" duration="3226000" />
+      <workItem from="1644495885770" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="Solve&#10;&#10;swift: Q11050 Q1010 Q2751 Q9012 Q9086">
       <created>1641230150409</created>
@@ -342,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644038270435</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="solve &gt;&#10;&#10;Q10714 Q13777 Q11659_PrefixSumArray">
+      <created>1644142476480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644142476480</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +408,8 @@
     <MESSAGE value="solve &gt;&#10;&#10;Q1181, Q10814, Q10866, Q10867" />
     <MESSAGE value="solve &gt;&#10;&#10;Q2164 Q3047 Q4948 Q9012_Stack Q9012_Normal" />
     <MESSAGE value="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve &gt;&#10;&#10;Q5622 Q7785 Q1764 Q11425" />
+    <MESSAGE value="solve &gt;&#10;&#10;Q10714 Q13777 Q11659_PrefixSumArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve &gt;&#10;&#10;Q10714 Q13777 Q11659_PrefixSumArray" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
