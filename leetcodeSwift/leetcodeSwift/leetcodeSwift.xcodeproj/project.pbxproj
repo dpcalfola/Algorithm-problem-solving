@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A594B17927B8109C000C203F /* L1929_ConcatenationOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A594B17827B8109C000C203F /* L1929_ConcatenationOfArray.swift */; };
 		A5E3544D27B14D5F004EA876 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E3544C27B14D5F004EA876 /* main.swift */; };
 		A5E3545427B15199004EA876 /* L389_FindTheDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E3545327B15199004EA876 /* L389_FindTheDifference.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A594B17827B8109C000C203F /* L1929_ConcatenationOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L1929_ConcatenationOfArray.swift; sourceTree = "<group>"; };
 		A5E3544927B14D5F004EA876 /* leetcodeSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcodeSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E3544C27B14D5F004EA876 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A5E3545327B15199004EA876 /* L389_FindTheDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L389_FindTheDifference.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				A5E3544C27B14D5F004EA876 /* main.swift */,
 				A5E3545327B15199004EA876 /* L389_FindTheDifference.swift */,
+				A594B17827B8109C000C203F /* L1929_ConcatenationOfArray.swift */,
 			);
 			path = leetcodeSwift;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				A5E3544D27B14D5F004EA876 /* main.swift in Sources */,
 				A5E3545427B15199004EA876 /* L389_FindTheDifference.swift in Sources */,
+				A594B17927B8109C000C203F /* L1929_ConcatenationOfArray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

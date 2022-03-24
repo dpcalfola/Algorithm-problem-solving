@@ -6,24 +6,13 @@
 //
 
 import Foundation
-class Solution {
-	func findTheDifference(_ s: String, _ t: String) -> Character {
 
-		let chaS: [Character] = s.map{ $0 }.sorted()
-		let chaT: [Character] = t.map{ $0 }.sorted()
+func getConcatenation(_ nums: [Int]) -> [Int] {
 
-		for i in 0..<chaS.count{
-			if chaS[i] != chaT[i]{
-				return chaT[i]
-			}
-		}
-
-		return chaT[chaT.count-1]
-	}
+	let ansNum = nums + nums
+	return ansNum
 }
 
-let a : Solution = Solution()
-let result: Character = a.findTheDifference("aaab", "aadab")
-print(result)
-
-
+let nums = [ 1, 2, 3 ]
+let answer: [Int] = getConcatenation(nums)
+print(answer)
