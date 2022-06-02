@@ -24,6 +24,11 @@ hs_err_pid*
 
 #idea
 .idea
+*/.idea
 
 #
 */too_hard
+
+#.DS_Store
+.DS_Store
+*/.DS_Store
