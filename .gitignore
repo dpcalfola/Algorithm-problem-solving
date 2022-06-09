@@ -32,3 +32,7 @@ hs_err_pid*
 #.DS_Store
 .DS_Store
 */.DS_Store
+
+# user untracking directory
+/**/untrack_folder
+
