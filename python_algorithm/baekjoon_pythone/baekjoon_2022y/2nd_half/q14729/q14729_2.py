@@ -14,14 +14,12 @@ for _ in range(7):
 
 # 7명 이후의 학생 수만큼 반복
 for _ in range(N - 7):
-
-    # 최대힙이므로 index 0 이 최대값을 보장
-    max_value = lowest_seven[0] * -1
     input_value: float = float(sys.stdin.readline().rstrip())
 
+    # 최대힙이므로 index 0 이 최대값을 보장
     # 만약 input_value가 하위 7명보다 낮다면
     # 그룹 최고점을 input_value 로 교체한다.
-    if max_value > input_value:
+    if lowest_seven[0] * -1 > input_value:
         heapq.heapreplace(lowest_seven, input_value * -1)
 
 # 입력이 모두 끝났을 때 7명의 (절대값)점수가 낮은 순서대로 정렬 (값은 모두 음수)
