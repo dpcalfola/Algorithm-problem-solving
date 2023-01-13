@@ -29,13 +29,13 @@ class Finger:
             if 0 < finger < 5:
                 finger += 1
             elif finger == 5:
-                finger = 1
+                finger = 4
                 direction = 'left'
         elif direction == 'left':
             if 1 < finger <= 5:
                 finger -= 1
             elif finger == 1:
-                finger = 5
+                finger = 2
                 direction = 'right'
 
         self.current_finger = finger
