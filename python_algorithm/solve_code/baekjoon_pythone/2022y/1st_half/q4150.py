@@ -1,4 +1,5 @@
 import sys
+
 sys.setrecursionlimit(300000)
 
 num = int(sys.stdin.readline().rstrip())

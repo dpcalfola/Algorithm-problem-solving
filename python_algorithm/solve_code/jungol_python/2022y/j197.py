@@ -2,7 +2,6 @@ import sys
 
 
 class Square:
-
     def __init__(self, x, y, x_1, y_1):
         self.x = int(x)
         self.y = int(y)

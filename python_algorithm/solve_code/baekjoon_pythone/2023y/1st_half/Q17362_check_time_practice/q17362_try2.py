@@ -4,9 +4,7 @@ import sys
 
 
 class Finger:
-
-    def __init__(self, init_finger: int = 1, init_direction: str = 'none'):
-
+    def __init__(self, init_finger: int = 1, init_direction: str = "none"):
         self.thumb: int = 1
         self.index: int = 2
         self.middle: int = 3
@@ -21,22 +19,21 @@ class Finger:
         return
 
     def next_finger(self, init_direction: str, init_finger: int) -> tuple[str, int]:
-
         finger: int = init_finger
         direction: str = init_direction
 
-        if direction == 'right':
+        if direction == "right":
             if 0 < finger < 5:
                 finger += 1
             elif finger == 5:
                 finger = 4
-                direction = 'left'
-        elif direction == 'left':
+                direction = "left"
+        elif direction == "left":
             if 1 < finger <= 5:
                 finger -= 1
             elif finger == 1:
                 finger = 2
-                direction = 'right'
+                direction = "right"
 
         self.current_finger = finger
         self.current_direction = direction
@@ -56,7 +53,7 @@ class Finger:
 
 n = int(sys.stdin.readline().rstrip())
 
-finger_obj: Finger = Finger(init_finger=1, init_direction='right')
+finger_obj: Finger = Finger(init_finger=1, init_direction="right")
 
 # Second Try: n for loop replace with n % 8 (n % 8 == 0 -> 8)
 #   Result repetitive pattern is 8
@@ -68,10 +65,17 @@ removed_repetitive_pattern: int = (n % 8 + 8) if n % 8 == 0 else n % 8
 # Note: The first finger is already counted. So loop starts from 1.
 k = 1
 for i in range(1, removed_repetitive_pattern):
-    print(i, 'k:', k, removed_repetitive_pattern, finger_obj.get_current_finger, finger_obj.get_current_direction)
+    print(
+        i,
+        "k:",
+        k,
+        removed_repetitive_pattern,
+        finger_obj.get_current_finger,
+        finger_obj.get_current_direction,
+    )
     finger_obj.next_finger(
         init_direction=finger_obj.get_current_direction,
-        init_finger=finger_obj.get_current_finger
+        init_finger=finger_obj.get_current_finger,
     )
     k += 1
 

@@ -27,4 +27,4 @@ lowest_seven.sort(reverse=True)
 
 # 순서대로 출력
 for score in lowest_seven:
-    print(f'{score * -1:.3f}')
+    print(f"{score * -1:.3f}")

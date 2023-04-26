@@ -1,8 +1,8 @@
 import collections
 import sys
 
-input_1 = ''
-input_2 = ''
+input_1 = ""
+input_2 = ""
 
 try:
     input_1 = sys.stdin.readline()
@@ -19,10 +19,10 @@ dic_counter = collections.Counter(arr)
 
 total = len(arr)
 
-sequences = ['Re', 'Pt', 'Cc', 'Ea', 'Tb', 'Cm', 'Ex']
+sequences = ["Re", "Pt", "Cc", "Ea", "Tb", "Cm", "Ex"]
 
 for sequence in sequences:
     cnt = dic_counter[sequence]
-    print(f'{sequence} {cnt} {cnt / total:.2f}')
+    print(f"{sequence} {cnt} {cnt / total:.2f}")
 
-print(f'Total {total} 1.00')
+print(f"Total {total} 1.00")

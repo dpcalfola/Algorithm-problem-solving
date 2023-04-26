@@ -1,11 +1,10 @@
 import sys
 
 input_str: str = sys.stdin.readline().rstrip()
-new_cha: str = ''
+new_cha: str = ""
 
 # Process
 for c in input_str:
-
     # If c is number or space
     if not c.isalpha():
         new_cha += c

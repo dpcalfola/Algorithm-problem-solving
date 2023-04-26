@@ -18,9 +18,11 @@ def mission(m: int) -> int:
     # Calculate each mission
     # And add result to case_total_money if it is positive
     for mission_num in range(m):
-        mission_result = money_list[mission_num][0] * k \
-                         - money_list[mission_num][1] * d \
-                         + money_list[mission_num][2] * a
+        mission_result = (
+            money_list[mission_num][0] * k
+            - money_list[mission_num][1] * d
+            + money_list[mission_num][2] * a
+        )
 
         case_total_money += mission_result if mission_result > 0 else 0
 

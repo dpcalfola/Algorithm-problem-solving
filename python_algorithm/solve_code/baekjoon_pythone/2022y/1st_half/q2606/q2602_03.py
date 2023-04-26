@@ -26,4 +26,4 @@ while stack:
             stack.append(vertex)
 
 # print(visited)
-print(len(visited)-1)
+print(len(visited) - 1)

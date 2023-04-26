@@ -13,4 +13,4 @@ while True:
 tree_sorted_list = sorted(trees_dict.items())
 
 for i in tree_sorted_list:
-    print('%s %.4f' % (i[0], i[1]/n*100))
+    print("%s %.4f" % (i[0], i[1] / n * 100))

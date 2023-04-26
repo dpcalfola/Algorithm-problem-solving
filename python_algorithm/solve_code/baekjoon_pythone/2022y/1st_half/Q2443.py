@@ -3,7 +3,6 @@ import sys
 input_num = int(sys.stdin.readline())
 
 for i in range(0, input_num):
-
     for j in range(0, i):
         print(" ", end="")
 

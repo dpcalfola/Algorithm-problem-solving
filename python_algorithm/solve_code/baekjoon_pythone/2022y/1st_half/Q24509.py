@@ -25,7 +25,6 @@ score_list.sort(key=lambda x: x[0])
 # j[1~5] == 과목점수
 # subject 를 i 로 하는 반복문
 for i in range(1, 5):
-
     # 과목을 고정하고 학생 수만큼 student_num 을 돈다.
     for j in range(0, num_of_student):
         if top_score < score_list[j][i]:

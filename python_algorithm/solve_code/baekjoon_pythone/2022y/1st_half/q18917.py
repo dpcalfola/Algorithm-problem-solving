@@ -18,4 +18,3 @@ for i in range(N):
         print(sum_)
     if in_v[0] == 4:
         print(xor_)
-

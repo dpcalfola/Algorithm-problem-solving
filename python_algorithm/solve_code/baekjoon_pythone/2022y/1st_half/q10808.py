@@ -9,4 +9,3 @@ for i in range(97, 123):
     answer_list.append(char_list.count(chr(i)))
 
 print(*answer_list)
-

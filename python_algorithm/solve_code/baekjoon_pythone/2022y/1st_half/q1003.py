@@ -1,6 +1,6 @@
 import sys
 
-sys.setrecursionlimit(10 ** 6)
+sys.setrecursionlimit(10**6)
 
 T = int(sys.stdin.readline().rstrip())
 
@@ -13,7 +13,6 @@ for _ in range(T):
 
     memo = [0] * (num + 1)
 
-
     def fibo(n):
         if n == 0:
             return 0
@@ -24,6 +23,5 @@ for _ in range(T):
         else:
             memo[n] = fibo(n - 1) + fibo(n - 2)
             return memo[n]
-
 
     print(fibo(num - 1), fibo(num))

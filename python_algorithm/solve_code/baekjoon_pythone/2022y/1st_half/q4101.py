@@ -9,6 +9,6 @@ while True:
         break
 
     if a > b:
-        print('Yes')
+        print("Yes")
     else:
-        print('No')
+        print("No")

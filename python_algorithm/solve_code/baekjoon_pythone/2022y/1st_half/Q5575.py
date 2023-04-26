@@ -21,7 +21,9 @@ def worktime(start_h, start_m, start_s, end_h, end_m, end_s):
 
 
 for _ in range(0, 3):
-    start_h, start_m, start_s, end_h, end_m, end_s = map(int, sys.stdin.readline().split())
+    start_h, start_m, start_s, end_h, end_m, end_s = map(
+        int, sys.stdin.readline().split()
+    )
     list_answer_group.append(worktime(start_h, start_m, start_s, end_h, end_m, end_s))
 
 for i in range(0, 3):

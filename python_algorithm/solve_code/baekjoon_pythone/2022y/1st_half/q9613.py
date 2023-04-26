@@ -23,4 +23,3 @@ test_case = int(sys.stdin.readline().rstrip())
 for _ in range(test_case):
     test_list = list(map(int, sys.stdin.readline().split()))
     print(get_gcd_sum(test_list))
-

@@ -7,11 +7,11 @@ for _ in range(T):
     num: float = float(input_list[0])
 
     for i in range(1, len(input_list)):
-        if input_list[i] == '@':
+        if input_list[i] == "@":
             num *= 3
-        elif input_list[i] == '%':
+        elif input_list[i] == "%":
             num += 5
-        elif input_list[i] == '#':
+        elif input_list[i] == "#":
             num -= 7
 
-    print(f'{num:.2f}')
+    print(f"{num:.2f}")

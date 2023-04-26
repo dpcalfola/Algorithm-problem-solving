@@ -5,7 +5,7 @@ chars = list(map(str, sys.stdin.readline().split()))
 
 chars.sort()
 stack = []
-vowel = {'a', 'e', 'i', 'o', 'u'}
+vowel = {"a", "e", "i", "o", "u"}
 
 
 def dfs():
@@ -13,7 +13,7 @@ def dfs():
         stack_set = set(stack)
         temp = stack_set - vowel  # temp == number of consonant
         if 1 < len(temp) < L:
-            print(''.join(stack))
+            print("".join(stack))
         return
 
     if len(stack) == 0:

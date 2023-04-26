@@ -21,8 +21,8 @@ def exec_case(class_num: int):
         largest_gap = max(largest_gap, gap)
 
     # Print answer
-    print(f'Class {class_num + 1}')
-    print(f'Max {highest_score}, Min {lowest_score}, Largest gap {largest_gap}')
+    print(f"Class {class_num + 1}")
+    print(f"Max {highest_score}, Min {lowest_score}, Largest gap {largest_gap}")
     # print(scores, highest_score, lowest_score)
 
 

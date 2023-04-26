@@ -23,11 +23,11 @@ class DateRelation:
         special_value: int = self.special_month * 100 + self.special_date
 
         if today_value == special_value:
-            return 'Special'
+            return "Special"
         if today_value < special_value:
-            return 'Before'
+            return "Before"
         if today_value > special_value:
-            return 'After'
+            return "After"
 
 
 # SOLUTION STARTS !!

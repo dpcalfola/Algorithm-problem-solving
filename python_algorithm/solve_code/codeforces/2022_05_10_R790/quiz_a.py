@@ -7,6 +7,6 @@ for i in range(T):
     s_1 = int(n[0]) + int(n[1]) + int(n[2])
     s_2 = int(n[3]) + int(n[4]) + int(n[5])
     if s_1 == s_2:
-        print('YES')
+        print("YES")
     else:
-        print('NO')
+        print("NO")

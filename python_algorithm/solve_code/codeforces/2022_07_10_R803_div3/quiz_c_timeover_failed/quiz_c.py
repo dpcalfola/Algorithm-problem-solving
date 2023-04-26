@@ -56,7 +56,7 @@ def exec_case():
         # Condition.3 : There's no station
         if not stations.__contains__(a) or not stations.__contains__(b):
             # print('C3: ', stations, a, b)
-            print('NO')
+            print("NO")
             return
 
         # Condition.2
@@ -64,11 +64,11 @@ def exec_case():
         try:
             _ = stations.index(b, start_station_index)
             # print('C1: ', stations, a, b)
-            print('YES')
+            print("YES")
             return
         except ValueError:
             # no route
-            print('NO')
+            print("NO")
             return
 
     # Process k kind of queries

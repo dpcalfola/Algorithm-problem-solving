@@ -24,4 +24,4 @@ s1 = Solution()
 result = s1.titleToNumber(input_str)
 print(result)
 
-print(ord('A'))
+print(ord("A"))

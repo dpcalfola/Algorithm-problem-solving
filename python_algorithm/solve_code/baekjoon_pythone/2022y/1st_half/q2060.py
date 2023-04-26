@@ -25,7 +25,6 @@ def prime_arr(max_int: int, target_counter: int) -> int:
 
             # 소수의 제곱부터 최대범위까지 i의 배수만큼 걸어가며 False 로 마킹
             for j in range(i * i, len(arr), i):
-
                 # 지워지지 않았을 경우에만 지우고 카운트
                 if arr[j]:
                     arr[j] = False

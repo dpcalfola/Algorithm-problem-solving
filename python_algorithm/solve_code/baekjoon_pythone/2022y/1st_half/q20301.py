@@ -12,15 +12,15 @@ def reverse_josephus(queue_, rotate_step, rotate_direction):
 
             # 오른쪽으로 돌아감 (왼쪽 회전)
             if rotate_direction == -1:
-                print('queue_ : ', queue_)
-                print('rotate_direction : ', rotate_direction)
+                print("queue_ : ", queue_)
+                print("rotate_direction : ", rotate_direction)
                 queue_.rotate(rotate_step * rotate_direction)
                 print(queue_.popleft())
 
             # 왼쪽으로 돌아감 (오른쪽 회전)
             else:
-                print('queue_ : ', queue_)
-                print('rotate_direction : ', rotate_direction)
+                print("queue_ : ", queue_)
+                print("rotate_direction : ", rotate_direction)
                 queue_.rotate(rotate_step * rotate_direction)
                 print(queue_.pop())
 

@@ -1,4 +1,5 @@
-print('''                                                           :8DDDDDDDDDDDDDD$.                                           
+print(
+    """                                                           :8DDDDDDDDDDDDDD$.                                           
                                                       DDDNNN8~~~~~~~~~~=~7DNNDNDDDNNI                                   
                                                   ?NNDD=~=~~~~~~~~~~~~~~~~~=~~==~=INNDNN7                               
                                                +NDDI~~~~~~~~~~~~~~~~~~~~~~~=~~========~ODND+                            
@@ -61,4 +62,5 @@ print('''                                                           :8DDDDDDDDDD
                                           .DND=~~~~=::~~=NN.   . . 8D~~.~~~~~~=DN$ODNDNDNNNDNNNNND8+~..                 
                                              8DNNI=.~~~~=NDDNNNNDDNDNN.~~~~~IDDNDND7:.                                  
                                                 ?DNNDD?~DD          ~NN~~=NDD$                                          
-                                                     :DDD.            NNNN=                                             ''')
+                                                     :DDD.            NNNN=                                             """
+)

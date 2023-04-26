@@ -2,7 +2,6 @@ import sys
 
 
 class Clock:
-
     def __init__(self, hour=0, minute=0, second=0):
         self.hour: int = hour
         self.minute: int = minute
@@ -47,7 +46,7 @@ class Clock:
         if self.hour < 0:
             self.hour += 24
 
-    def __add__(self, other_clock: 'Clock') -> 'Clock':
+    def __add__(self, other_clock: "Clock") -> "Clock":
         """
 
         ATTENTION:
@@ -109,11 +108,13 @@ def sec_to_clock_obj(param_seconds: int) -> Clock:
     return Clock(hour, minute, second)
 
 
-def solving_method() -> 'Clock':
+def solving_method() -> "Clock":
     init_hour: int  # This line is type hinting annotation
     init_minute: int
     init_second: int
-    init_hour, init_minute, init_second = map(int, sys.stdin.readline().rstrip().split())
+    init_hour, init_minute, init_second = map(
+        int, sys.stdin.readline().rstrip().split()
+    )
     target_second: int = int(sys.stdin.readline().rstrip())
 
     # Create Clock objects

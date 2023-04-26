@@ -13,7 +13,7 @@ class Dice:
             self.value[0],
             self.value[5],
             self.value[4],
-            self.value[2]
+            self.value[2],
         ]
         self.value = new_value
 
@@ -24,7 +24,7 @@ class Dice:
             self.value[5],
             self.value[0],
             self.value[4],
-            self.value[3]
+            self.value[3],
         ]
         self.value = new_value
 
@@ -35,8 +35,7 @@ class Dice:
             self.value[2],
             self.value[3],
             self.value[5],
-            self.value[1]
-
+            self.value[1],
         ]
         self.value = new_value
 
@@ -47,7 +46,7 @@ class Dice:
             self.value[2],
             self.value[3],
             self.value[0],
-            self.value[4]
+            self.value[4],
         ]
         self.value = new_value
 
@@ -61,7 +60,7 @@ class Dice:
         return self.value[0]
 
     def __str__(self):
-        dice_value = ''
+        dice_value = ""
         for i in self.value:
             dice_value += str(i)
         return dice_value

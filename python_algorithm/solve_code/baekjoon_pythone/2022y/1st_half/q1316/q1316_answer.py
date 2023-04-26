@@ -7,6 +7,7 @@ from collections import deque
 # 다음 글자가 같을 경우 continue
 # 다음 글자가 같지 않을 경우 pop 한 글자가 new list에 존재한다면 False
 
+
 def is_group_word(s: str) -> bool:
     s_que = deque(list(s))
     new_list = []

@@ -14,20 +14,19 @@ def exec_case():
 
     # Process function for each query
     def process_query():
-
         # Condition.3 : There's no station
         if not stations.__contains__(a) or not stations.__contains__(b):
-            print('NO')
+            print("NO")
             return
 
         # Condition.2
         start_station_index = stations.index(a)
         try:
             _ = stations.index(b, start_station_index)
-            print('YES')
+            print("YES")
         except ValueError:
             # no route
-            print('NO')
+            print("NO")
 
     # Process k kind of queries
     for k in range(k):

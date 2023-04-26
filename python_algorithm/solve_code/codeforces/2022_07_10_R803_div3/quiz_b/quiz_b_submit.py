@@ -21,7 +21,6 @@ def one_day_process(s_deque: deque, end_flag: bool) -> (deque, bool):
                 return s_deque, end_flag
 
         except IndexError:
-
             end_flag = True
             return s_deque, end_flag
 

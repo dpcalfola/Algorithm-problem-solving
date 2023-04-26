@@ -29,8 +29,8 @@ for q in coordinate_list:
     if x > 0 and y < 0:
         q_4 += 1
 
-print(f'Q1: {q_1}')
-print(f'Q2: {q_2}')
-print(f'Q3: {q_3}')
-print(f'Q4: {q_4}')
-print(f'AXIS: {axis}', end='')
+print(f"Q1: {q_1}")
+print(f"Q2: {q_2}")
+print(f"Q3: {q_3}")
+print(f"Q4: {q_4}")
+print(f"AXIS: {axis}", end="")

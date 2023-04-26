@@ -24,7 +24,6 @@ def goldbach(num: int, prime_list: list):
     mid = num // 2
     diff = num - mid
     while True:
-
         if prime_list[mid] and prime_list[diff]:
             print(diff, mid)
             break
