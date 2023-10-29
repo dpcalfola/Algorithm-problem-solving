@@ -13,6 +13,6 @@ A = int(input_list[2])
 # print(D)
 
 if (K + A) < D or D == 0:
-    print('hasu')
+    print("hasu")
 else:
-    print('gosu')
+    print("gosu")

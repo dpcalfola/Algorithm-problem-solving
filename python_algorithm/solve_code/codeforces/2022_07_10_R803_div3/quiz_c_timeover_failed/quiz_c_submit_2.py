@@ -26,10 +26,10 @@ def exec_case():
         try:
             start_station_index = stations.index(a)
             _ = stations.index(b, start_station_index)
-            print('YES')
+            print("YES")
         except ValueError:
             # no route
-            print('NO')
+            print("NO")
 
     return
 

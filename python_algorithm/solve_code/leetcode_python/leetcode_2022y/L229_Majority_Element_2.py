@@ -5,6 +5,7 @@ from typing import List
 # make set (remove reoeted item)
 # if set item of count of the list is bigger than limit, append answer list
 
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
         answer = []

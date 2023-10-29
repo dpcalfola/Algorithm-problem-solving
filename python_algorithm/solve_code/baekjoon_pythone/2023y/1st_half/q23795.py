@@ -2,10 +2,11 @@ import sys
 
 
 class PythonicWay:
-
-    def __init__(self, ):
+    def __init__(
+        self,
+    ):
         self.list: list[int] = []
-        self.save_string: str = ''
+        self.save_string: str = ""
 
         # Make input list immediately when object is created
         self.make_input_list()
@@ -14,15 +15,15 @@ class PythonicWay:
         # Save int input to string until input is -1
         while True:
             current_input: str = sys.stdin.readline().rstrip()
-            if current_input == '-1':
+            if current_input == "-1":
                 break
-            self.save_string += current_input + ','
+            self.save_string += current_input + ","
 
         # Remove last comma
         self.save_string = self.save_string[:-1]
 
         # Save string to list as pythonic list comprehension
-        self.list = [int(i) for i in self.save_string.rstrip().split(',')]
+        self.list = [int(i) for i in self.save_string.rstrip().split(",")]
 
     @property
     def get_list(self) -> list[int]:

@@ -1,9 +1,9 @@
 import sys
 
-sys.setrecursionlimit(10 ** 6)
+sys.setrecursionlimit(10**6)
 N = int(sys.stdin.readline().rstrip())
 
-memo = [0] * (20 ** 8 + 1)
+memo = [0] * (20**8 + 1)
 memo[1] = 1
 memo[2] = 1
 

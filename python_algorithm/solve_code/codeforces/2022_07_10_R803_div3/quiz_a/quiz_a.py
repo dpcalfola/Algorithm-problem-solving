@@ -19,7 +19,7 @@ def exec_case():
         if m < 10:
             print(m - 1)
             return
-        if m < 10 ** k:
+        if m < 10**k:
             answer = m - 10 ** (k - 1)
             print(answer)
             return

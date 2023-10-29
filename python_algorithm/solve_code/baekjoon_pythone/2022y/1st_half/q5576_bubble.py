@@ -38,4 +38,3 @@ for i in range(0, 3):
     k_score += k_list[i]
 
 print(w_score, k_score)
-

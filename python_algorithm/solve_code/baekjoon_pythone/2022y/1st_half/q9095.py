@@ -23,7 +23,6 @@ for _ in range(T):
     num = int(sys.stdin.readline().rstrip())
     memory = [0] * (num + 1)
 
-
     def dp(n):
         if n == 1:
             return 1
@@ -36,6 +35,5 @@ for _ in range(T):
         else:
             memory[n] = dp(n - 1) + dp(n - 2) + dp(n - 3)
             return memory[n]
-
 
     print(dp(num))

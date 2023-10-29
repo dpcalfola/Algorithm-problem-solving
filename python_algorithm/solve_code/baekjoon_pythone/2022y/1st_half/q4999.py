@@ -4,6 +4,6 @@ jahwan = sys.stdin.readline().rstrip()
 doctor = sys.stdin.readline().rstrip()
 
 if len(jahwan) >= len(doctor):
-    print('go')
+    print("go")
 else:
-    print('no')
+    print("no")

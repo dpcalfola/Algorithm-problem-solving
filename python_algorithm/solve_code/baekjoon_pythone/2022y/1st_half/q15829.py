@@ -12,7 +12,7 @@ for i in arr_s:
 
 sum_ = 0
 for i in range(0, len(arr)):
-    sum_ += arr[i] * (31 ** i)
+    sum_ += arr[i] * (31**i)
     sum_ %= 1234567891
 
 print(sum_)

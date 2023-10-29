@@ -26,10 +26,10 @@ def bfs(start):
     while que:
         current = que.popleft()
         step[0] = step[0] + 1
-        print(f'step : {step}, visited : {visited}')
+        print(f"step : {step}, visited : {visited}")
         for vertex in graph[current]:
             if vertex == b:
-                print(f'find it !!\ncurrent : {current}, step : {step}')
+                print(f"find it !!\ncurrent : {current}, step : {step}")
                 is_find[0] = True
                 return
             if vertex not in visited:

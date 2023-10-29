@@ -16,29 +16,27 @@ def prime_arr(max_int: int, target_counter: int) -> int:
     for i in range(2, max_int + 1):
         # i가 소수일 경우
         if arr[i]:
-
             # counter++
             counter += 1
-            print('counter', counter, 'delete', i)
+            print("counter", counter, "delete", i)
 
             # 타겟 체크
             if counter == target_counter:
-                print('return i, count', counter, 'delete ', i)
+                print("return i, count", counter, "delete ", i)
                 return i
 
             # 소수의 제곱부터 최대범위까지 i의 배수만큼 걸어가며 False 로 마킹
             for j in range(i * i, len(arr), i):
-
                 # 지워지지 않았을 경우에만 카운트
                 if arr[j]:
                     arr[j] = False
                     # counter++
                     counter += 1
-                    print('counter', counter, 'delete', j)
+                    print("counter", counter, "delete", j)
 
                 # 타겟 체크
                 if counter == target_counter:
-                    print('return j, count', counter, 'delete ', j)
+                    print("return j, count", counter, "delete ", j)
                     return j
 
 

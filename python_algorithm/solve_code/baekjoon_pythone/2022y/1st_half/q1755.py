@@ -2,19 +2,19 @@ import sys
 
 
 def num_to_string(n: int) -> str:
-    to_string: str = ''
+    to_string: str = ""
 
     num_string: dict = {
-        '1': 'one',
-        '2': 'two',
-        '3': 'three',
-        '4': 'four',
-        '5': 'five',
-        '6': 'six',
-        '7': 'seven',
-        '8': 'eight',
-        '9': 'nine',
-        '0': 'zero',
+        "1": "one",
+        "2": "two",
+        "3": "three",
+        "4": "four",
+        "5": "five",
+        "6": "six",
+        "7": "seven",
+        "8": "eight",
+        "9": "nine",
+        "0": "zero",
     }
 
     for cha_ in str(n):
@@ -39,7 +39,7 @@ string_nums.sort(key=lambda s: (s[0], s[1]))
 # 튜플의 두번째 값을 10개씩 출력
 new_line_plag = 0
 for e_1, e_2 in string_nums:
-    print(e_2, end=' ')
+    print(e_2, end=" ")
     new_line_plag += 1
 
     if new_line_plag == 10:

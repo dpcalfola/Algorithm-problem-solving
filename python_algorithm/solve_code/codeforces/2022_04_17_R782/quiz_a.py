@@ -8,15 +8,15 @@ for _ in range(t):
     col = r // (b + 1)
     reminder = r % (b + 1)
     for _ in range(b + 1):
-        arr.append('R' * col)
-        arr.append('B')
+        arr.append("R" * col)
+        arr.append("B")
     arr.pop()
-    print('reminder :', reminder)
+    print("reminder :", reminder)
     print(arr)
     step = 1
     for _ in range(reminder):
-        arr.insert(step, 'R')
+        arr.insert(step, "R")
         step += 2
         step += 1
     print(arr)
-    print(''.join(arr))
+    print("".join(arr))

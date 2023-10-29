@@ -6,7 +6,7 @@ not_cute_cnt = 0
 
 for _ in range(n):
     input_ = sys.stdin.readline().rstrip()
-    if input_ == '1':
+    if input_ == "1":
         cute_cnt += 1
     else:
         not_cute_cnt += 1

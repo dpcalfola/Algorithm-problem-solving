@@ -4,5 +4,5 @@ def get_two_strings(s: str):
         print(s[:i], s[i:])
 
 
-string_a = 'actec'
+string_a = "actec"
 get_two_strings(string_a)

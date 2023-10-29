@@ -8,7 +8,7 @@ def exec_case():
 
     for word in words:
         reversed_word = word[::-1]
-        print(reversed_word, end=' ')
+        print(reversed_word, end=" ")
 
 
 for _ in range(T):

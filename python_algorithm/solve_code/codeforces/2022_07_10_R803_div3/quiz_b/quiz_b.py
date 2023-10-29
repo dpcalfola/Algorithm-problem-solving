@@ -33,16 +33,14 @@ def one_day_process(s_deque: deque, end_flag: bool) -> (deque, bool):
             if memory.__contains__(s_deque[0]):
                 s_deque.popleft()
             elif len(memory) == 3:
-
                 # test code start
-                print('deque: ', s_deque)
-                print('memory: ', memory)
+                print("deque: ", s_deque)
+                print("memory: ", memory)
                 # test code end
 
                 return s_deque, end_flag
 
         except IndexError:
-
             end_flag = True
             return s_deque, end_flag
 

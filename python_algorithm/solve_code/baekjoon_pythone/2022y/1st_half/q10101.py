@@ -20,17 +20,17 @@ def figure_out_triangle(a_list: list) -> str:
     sum_of_angles = sum(a_list)
 
     if sum_of_angles != 180:
-        return 'Error'
+        return "Error"
 
     set_of_angles = set(a_list)
     size_of_set: int = len(set_of_angles)
 
     if size_of_set == 1:
-        return 'Equilateral'
+        return "Equilateral"
     if size_of_set == 2:
-        return 'Isosceles'
+        return "Isosceles"
     if size_of_set == 3:
-        return 'Scalene'
+        return "Scalene"
 
 
 print(figure_out_triangle(angles))

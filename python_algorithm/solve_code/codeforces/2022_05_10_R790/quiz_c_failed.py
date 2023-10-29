@@ -12,10 +12,10 @@ def sol(n: int, length: int):
     for i in range(len(words[0])):
         sum_of = 0
         for j in range(n):
-            print('cha_value:', ord(words[j][i]) - 96)
+            print("cha_value:", ord(words[j][i]) - 96)
             sum_of += ord(words[j][i]) - 96
         avg = sum_of // n
-        print('avg:', avg)
+        print("avg:", avg)
         for k in range(n):
             answer += abs((ord(words[k][i]) - 96) - avg)
     print(answer)

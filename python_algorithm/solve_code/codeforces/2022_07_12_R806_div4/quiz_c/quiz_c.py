@@ -11,8 +11,8 @@ def exec_case():
     for i in range(digit):
         _, order = map(str, sys.stdin.readline().split())
         sequence = list(order)
-        num_of_d = sequence.count('D')
-        num_of_u = sequence.count('U')
+        num_of_d = sequence.count("D")
+        num_of_u = sequence.count("U")
 
         sum_order = num_of_d - num_of_u
 

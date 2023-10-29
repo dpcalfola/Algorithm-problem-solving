@@ -25,7 +25,7 @@ def goldbach(num: int, prime_list: list):
     right = num
     while True:
         if prime_list[left] and prime_list[right]:
-            print(f'{num} = {left} + {right}')
+            print(f"{num} = {left} + {right}")
             break
         else:
             right -= 1

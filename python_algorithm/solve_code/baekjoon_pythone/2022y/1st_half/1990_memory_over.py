@@ -14,7 +14,7 @@ def eratosthenes(max_int: int) -> list:
 
     for i in range(2, limit):
         if arr[i]:
-            for j in range((i ** 2), len(arr), i):
+            for j in range((i**2), len(arr), i):
                 arr[j] = False
 
     return arr

@@ -1,6 +1,6 @@
 from collections import deque
 
-print(10 ** 2)
+print(10**2)
 
 test_deque = deque([9, 7, 5])
 test_list: list = [5]
@@ -10,9 +10,9 @@ test_list: list = [5]
 print(test_deque[0])
 
 if test_list.__contains__(test_deque[2]):
-    print('contain')
+    print("contain")
 else:
-    print('No')
+    print("No")
 
 # 기차역의 범위 1 to 10**9
 # 1 <= n <= 10**9

@@ -20,20 +20,19 @@ def fee_calculator(criteria: str, unit_time: int, unit_fee: int) -> int:
 
 
 # Meaning of fee tuple -> (criteria_initial, unit_time, unit_fee)
-criteria_yongSic: tuple[str, int, int] = ('Y', 30, 10)
-criteria_manSic: tuple[str, int, int] = ('M', 60, 15)
+criteria_yongSic: tuple[str, int, int] = ("Y", 30, 10)
+criteria_manSic: tuple[str, int, int] = ("M", 60, 15)
 
 # Calculate each fee
-youngSic_fee = fee_calculator(criteria_yongSic[0], criteria_yongSic[1], criteria_yongSic[2])
+youngSic_fee = fee_calculator(
+    criteria_yongSic[0], criteria_yongSic[1], criteria_yongSic[2]
+)
 manSic_fee = fee_calculator(criteria_manSic[0], criteria_manSic[1], criteria_manSic[2])
 
 # Print answer
 if youngSic_fee == manSic_fee:
-    print(f'Y M {youngSic_fee}')
+    print(f"Y M {youngSic_fee}")
 elif youngSic_fee < manSic_fee:
-    print(f'Y {youngSic_fee}')
+    print(f"Y {youngSic_fee}")
 elif manSic_fee < youngSic_fee:
-    print(f'M {manSic_fee}')
-
-
-
+    print(f"M {manSic_fee}")

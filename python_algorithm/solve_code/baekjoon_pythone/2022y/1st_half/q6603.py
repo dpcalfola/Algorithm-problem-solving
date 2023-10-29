@@ -9,7 +9,6 @@ while True:
     V = 6
     stack = []
 
-
     def dfs():
         if len(stack) == V:
             print(*stack)
@@ -27,7 +26,6 @@ while True:
                 stack.append(i)
                 dfs()
                 stack.pop()
-
 
     dfs()
     print()

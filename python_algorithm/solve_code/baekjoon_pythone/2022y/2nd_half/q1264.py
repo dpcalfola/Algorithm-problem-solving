@@ -1,14 +1,13 @@
 import sys
 
-case_sentence: str = '-1'
+case_sentence: str = "-1"
 
-vowel: list = ['a', 'e', 'i', 'o', 'u']
+vowel: list = ["a", "e", "i", "o", "u"]
 
-while case_sentence != '#':
-
+while case_sentence != "#":
     case_sentence = str(sys.stdin.readline().rstrip().lower())
 
-    if case_sentence == '#':
+    if case_sentence == "#":
         break
 
     vowel_cnt = 0

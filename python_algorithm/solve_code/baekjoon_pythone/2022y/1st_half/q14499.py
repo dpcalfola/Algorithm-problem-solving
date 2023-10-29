@@ -11,7 +11,7 @@ class Dice:
             self.value[0],
             self.value[5],
             self.value[4],
-            self.value[2]
+            self.value[2],
         ]
         self.value = new_value
 
@@ -22,7 +22,7 @@ class Dice:
             self.value[5],
             self.value[0],
             self.value[4],
-            self.value[3]
+            self.value[3],
         ]
         self.value = new_value
 
@@ -33,8 +33,7 @@ class Dice:
             self.value[2],
             self.value[3],
             self.value[5],
-            self.value[1]
-
+            self.value[1],
         ]
         self.value = new_value
 
@@ -45,7 +44,7 @@ class Dice:
             self.value[2],
             self.value[3],
             self.value[0],
-            self.value[4]
+            self.value[4],
         ]
         self.value = new_value
 
@@ -59,7 +58,7 @@ class Dice:
         return self.value[0]
 
     def __str__(self):
-        dice_value = ''
+        dice_value = ""
         for i in self.value:
             dice_value += str(i)
         return dice_value
@@ -112,7 +111,7 @@ def set_number(set_position: list, set_value):
 # 만약 지도 밖으로 나간다면 False 를 리턴
 def order_execute() -> bool:
     map_number = get_number(position)
-    print(f'map number {map_number}')
+    print(f"map number {map_number}")
     if position[0] < 0 or position[1] < 0:
         return False
     if map_number == -1:
@@ -138,13 +137,12 @@ def order_execute() -> bool:
 
 # START !!
 for order in orders:
-
-    print('order : ', order)
+    print("order : ", order)
 
     if order == 1:
         position[1] += 1
         dice.move_east()
-        print('position: ', position)
+        print("position: ", position)
         if not order_execute():
             position[1] -= 1
             dice.move_west()
@@ -152,7 +150,7 @@ for order in orders:
     if order == 2:
         position[1] -= 1
         dice.move_west()
-        print('position: ', position)
+        print("position: ", position)
         if not order_execute():
             position[1] += 1
             dice.move_east()
@@ -160,7 +158,7 @@ for order in orders:
     if order == 3:
         position[0] -= 1
         dice.move_north()
-        print('position: ', position)
+        print("position: ", position)
         if not order_execute():
             position[0] += 1
             dice.move_south()
@@ -168,7 +166,7 @@ for order in orders:
     if order == 4:
         position[0] += 1
         dice.move_south()
-        print('position: ', position)
+        print("position: ", position)
         if not order_execute():
             position[0] -= 1
             dice.move_north()

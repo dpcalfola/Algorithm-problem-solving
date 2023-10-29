@@ -6,7 +6,6 @@ if num == 1:
     print(0)
 
 else:
-
     arr = []
 
     # 다솜이 점수

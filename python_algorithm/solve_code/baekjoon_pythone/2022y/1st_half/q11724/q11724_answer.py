@@ -26,7 +26,7 @@ while vertex_arr:
             if vertex not in visited:
                 visited.append(vertex)
                 stack.append(vertex)
-                if vertex in vertex_arr:    # 방문한 정점은 dfs 시작 정점으로 사용하지 않음
+                if vertex in vertex_arr:  # 방문한 정점은 dfs 시작 정점으로 사용하지 않음
                     vertex_arr.remove(vertex)
     component += 1
 

@@ -1,7 +1,7 @@
 import sys
 
 words: list = []
-answer: str = ''
+answer: str = ""
 
 for i in range(5):
     input_line: str = sys.stdin.readline().rstrip()

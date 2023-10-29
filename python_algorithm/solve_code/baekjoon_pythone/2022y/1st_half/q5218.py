@@ -9,7 +9,7 @@ def exec_case():
     chars_y: list = list(input_y)
 
     # Print prefix
-    print('Distances: ', end='')
+    print("Distances: ", end="")
 
     # Print distance each position
     for i in range(len(chars_x)):

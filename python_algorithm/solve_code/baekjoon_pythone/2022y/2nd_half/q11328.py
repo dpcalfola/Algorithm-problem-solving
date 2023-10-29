@@ -12,7 +12,7 @@ def solve_case():
     list_a.sort()
     list_b.sort()
 
-    print('Possible') if list_a == list_b else print('Impossible')
+    print("Possible") if list_a == list_b else print("Impossible")
 
 
 for _ in range(T):

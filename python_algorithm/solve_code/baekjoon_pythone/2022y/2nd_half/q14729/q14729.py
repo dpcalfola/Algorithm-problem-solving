@@ -14,7 +14,6 @@ for _ in range(7):
 
 # 7명 이후의 학생 수만큼 반복
 for _ in range(N - 7):
-
     # 최대힙이므로 index 0 이 최대값을 보장
     max_value = lowest_seven[0] * -1
     input_value: float = float(sys.stdin.readline().rstrip())
@@ -29,4 +28,4 @@ lowest_seven.sort(reverse=True)
 
 # 순서대로 출력
 for score in lowest_seven:
-    print(f'{score * -1:.3f}')
+    print(f"{score * -1:.3f}")

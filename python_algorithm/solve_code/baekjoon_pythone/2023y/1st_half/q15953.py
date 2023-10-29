@@ -24,11 +24,10 @@ import sys
 
 
 class Prize:
-
     def __init__(self, data_2017: dict):
-        self.win_group: list[int] = data_2017.get('win_group')
-        self.prize_money: list[int] = data_2017.get('prize_money')
-        self.num_win_group: list[int] = data_2017.get('num_win_group')
+        self.win_group: list[int] = data_2017.get("win_group")
+        self.prize_money: list[int] = data_2017.get("prize_money")
+        self.num_win_group: list[int] = data_2017.get("num_win_group")
 
         # Calculate rank boundary list
         self.rank_boundary: list[int] = self.calculate_rank_boundary()
@@ -58,23 +57,23 @@ class Prize:
 
 
 given_data: dict = {
-    'fest2017': {
-        'win_group': [1, 2, 3, 4, 5, 6],
+    "fest2017": {
+        "win_group": [1, 2, 3, 4, 5, 6],
         # unit: 만원
-        'prize_money': [500, 300, 200, 50, 30, 10],
-        'num_win_group': [1, 2, 3, 4, 5, 6],
+        "prize_money": [500, 300, 200, 50, 30, 10],
+        "num_win_group": [1, 2, 3, 4, 5, 6],
     },
-    'fest2018': {
-        'win_group': [1, 2, 3, 4, 5],
+    "fest2018": {
+        "win_group": [1, 2, 3, 4, 5],
         # unit: 만원
-        'prize_money': [512, 256, 128, 64, 32],
-        'num_win_group': [1, 2, 4, 8, 16],
-    }
+        "prize_money": [512, 256, 128, 64, 32],
+        "num_win_group": [1, 2, 4, 8, 16],
+    },
 }
 
 # Create Prize object for each fest
-fest2017: Prize = Prize(given_data.get('fest2017'))
-fest2018: Prize = Prize(given_data.get('fest2018'))
+fest2017: Prize = Prize(given_data.get("fest2017"))
+fest2018: Prize = Prize(given_data.get("fest2018"))
 
 # Start Solving !!
 case_num: int = int(sys.stdin.readline().rstrip())

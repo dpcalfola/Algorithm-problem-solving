@@ -12,4 +12,4 @@ elif dic_cnt[0] == 2:
     winner = arr.index(1)
     print(chr(winner + 65))
 else:
-    print('*')
+    print("*")

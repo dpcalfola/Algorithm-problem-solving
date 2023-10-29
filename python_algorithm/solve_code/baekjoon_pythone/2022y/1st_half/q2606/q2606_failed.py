@@ -38,8 +38,8 @@ while len(stack) > 0:
     next_ = None
     for vertex in range(1, g1.SIZE):
         if g1.graph[current][vertex] == 1:
-            print(f'current : {current}, vertex : {vertex}')
-            print(f'visited : {visited}')
+            print(f"current : {current}, vertex : {vertex}")
+            print(f"visited : {visited}")
             if vertex not in visited:
                 next_ = vertex
                 break
@@ -48,12 +48,12 @@ while len(stack) > 0:
         current = next_
         stack.append(current)
         visited.append(current)
-        print(f'appended number : {current}')
+        print(f"appended number : {current}")
     else:
         current = stack.pop()
-        print(f'pop : {current}')
+        print(f"pop : {current}")
 
-    print(f'length of stack : {len(stack)}')
+    print(f"length of stack : {len(stack)}")
 
 print(visited)
-print(len(visited)-1)
+print(len(visited) - 1)

@@ -2,7 +2,7 @@ import sys
 
 target_word: str = sys.stdin.readline().rstrip()
 
-vowel: set[str] = {'a', 'e', 'i', 'o', 'u'}
+vowel: set[str] = {"a", "e", "i", "o", "u"}
 vowel_cnt: int = 0
 
 for character in target_word:

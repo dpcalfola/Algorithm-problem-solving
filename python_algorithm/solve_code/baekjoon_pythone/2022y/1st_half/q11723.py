@@ -19,32 +19,32 @@ for _ in range(M):
     input_line = list(sys.stdin.readline().split())
     command = input_line[0]
 
-    if command == 'all':
+    if command == "all":
         S = set([i for i in range(1, 21)])
         continue
 
-    if command == 'empty':
+    if command == "empty":
         S.clear()
         continue
 
     value = int(input_line[1])
 
-    if command == 'add':
+    if command == "add":
         S.add(value)
         continue
 
-    if command == 'remove':
+    if command == "remove":
         S.discard(value)
         continue
 
-    if command == 'check':
+    if command == "check":
         if S.__contains__(value):
             print(1)
         else:
             print(0)
         continue
 
-    if command == 'toggle':
+    if command == "toggle":
         if S.__contains__(value):
             S.remove(value)
         else:

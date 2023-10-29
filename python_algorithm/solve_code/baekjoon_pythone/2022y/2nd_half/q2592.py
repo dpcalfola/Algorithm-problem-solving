@@ -11,4 +11,4 @@ numbers_set: set[int] = set(numbers)
 mode: int = max(numbers_set, key=numbers.count)
 
 # Print answer
-print(avg, mode, sep='\n')
+print(avg, mode, sep="\n")
